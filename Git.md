@@ -1819,3 +1819,569 @@ Git有commit，为什么还要引入tag？
 
 所以，tag就是一个让人容易记住的有意义的名字，它跟某个commit绑在一起。
 
+### 创建标签
+
+在Git中打标签非常简单，首先，切换到需要打标签的分支上：
+
+```
+$ git branch
+* dev
+  master
+$ git checkout master
+Switched to branch 'master'
+```
+
+然后，敲命令`git tag <name>`就可以打一个新标签：
+
+```
+$ git tag v1.0
+```
+
+可以用命令`git tag`查看所有标签：
+
+```
+$ git tag
+v1.0
+```
+
+默认标签是打在最新提交的commit上的。有时候，如果忘了打标签，比如，现在已经是周五了，但应该在周一打的标签没有打，怎么办？
+
+方法是找到历史提交的commit id，然后打上就可以了：
+
+```
+$ git log --pretty=oneline --abbrev-commit
+6a5819e merged bug fix 101
+cc17032 fix bug 101
+7825a50 merge with no-ff
+6224937 add merge
+59bc1cb conflict fixed
+400b400 & simple
+75a857c AND simple
+fec145a branch test
+d17efd8 remove test.txt
+...
+```
+
+比方说要对`add merge`这次提交打标签，它对应的commit id是`6224937`，敲入命令：
+
+```
+$ git tag v0.9 6224937
+```
+
+再用命令`git tag`查看标签：
+
+```
+$ git tag
+v0.9
+v1.0
+```
+
+注意，标签不是按时间顺序列出，而是按字母排序的。可以用`git show <tagname>`查看标签信息：
+
+```
+$ git show v0.9
+commit 622493706ab447b6bb37e4e2a2f276a20fed2ab4
+Author: Michael Liao <askxuefeng@gmail.com>
+Date:   Thu Aug 22 11:22:08 2013 +0800
+
+    add merge
+...
+```
+
+可以看到，`v0.9`确实打在`add merge`这次提交上。
+
+还可以创建带有说明的标签，用`-a`指定标签名，`-m`指定说明文字：
+
+```
+$ git tag -a v0.1 -m "version 0.1 released" 3628164
+```
+
+用命令`git show <tagname>`可以看到说明文字：
+
+```
+$ git show v0.1
+tag v0.1
+Tagger: Michael Liao <askxuefeng@gmail.com>
+Date:   Mon Aug 26 07:28:11 2013 +0800
+
+version 0.1 released
+
+commit 3628164fb26d48395383f8f31179f24e0882e1e0
+Author: Michael Liao <askxuefeng@gmail.com>
+Date:   Tue Aug 20 15:11:49 2013 +0800
+
+    append GPL
+```
+
+还可以通过`-s`用私钥签名一个标签：
+
+```
+$ git tag -s v0.2 -m "signed version 0.2 released" fec145a
+```
+
+签名采用PGP签名，因此，必须首先安装gpg（GnuPG），如果没有找到gpg，或者没有gpg密钥对，就会报错：
+
+```
+gpg: signing failed: secret key not available
+error: gpg failed to sign the data
+error: unable to sign the tag
+```
+
+如果报错，请参考GnuPG帮助文档配置Key。
+
+用命令`git show <tagname>`可以看到PGP签名信息：
+
+```
+$ git show v0.2
+tag v0.2
+Tagger: Michael Liao <askxuefeng@gmail.com>
+Date:   Mon Aug 26 07:28:33 2013 +0800
+
+signed version 0.2 released
+-----BEGIN PGP SIGNATURE-----
+Version: GnuPG v1.4.12 (Darwin)
+
+iQEcBAABAgAGBQJSGpMhAAoJEPUxHyDAhBpT4QQIAKeHfR3bo...
+-----END PGP SIGNATURE-----
+
+commit fec145accd63cdc9ed95a2f557ea0658a2a6537f
+Author: Michael Liao <askxuefeng@gmail.com>
+Date:   Thu Aug 22 10:37:30 2013 +0800
+
+    branch test
+```
+
+用PGP签名的标签是不可伪造的，因为可以验证PGP签名。验证签名的方法比较复杂，这里就不介绍了。
+
+#### 小结
+
+- 命令`git tag <name>`用于新建一个标签，默认为`HEAD`，也可以指定一个commit id；
+- `git tag -a <tagname> -m "blablabla..."`可以指定标签信息；
+- `git tag -s <tagname> -m "blablabla..."`可以用PGP签名标签；
+- 命令`git tag`可以查看所有标签。
+
+### 操作标签
+
+如果标签打错了，也可以删除：
+
+```
+$ git tag -d v0.1
+Deleted tag 'v0.1' (was e078af9)
+```
+
+因为创建的标签都只存储在本地，不会自动推送到远程。所以，打错的标签可以在本地安全删除。
+
+如果要推送某个标签到远程，使用命令`git push origin <tagname>`：
+
+```
+$ git push origin v1.0
+Total 0 (delta 0), reused 0 (delta 0)
+To git@github.com:michaelliao/learngit.git
+ * [new tag]         v1.0 -> v1.0
+```
+
+或者，一次性推送全部尚未推送到远程的本地标签：
+
+```
+$ git push origin --tags
+Counting objects: 1, done.
+Writing objects: 100% (1/1), 554 bytes, done.
+Total 1 (delta 0), reused 0 (delta 0)
+To git@github.com:michaelliao/learngit.git
+ * [new tag]         v0.2 -> v0.2
+ * [new tag]         v0.9 -> v0.9
+```
+
+如果标签已经推送到远程，要删除远程标签就麻烦一点，先从本地删除：
+
+```
+$ git tag -d v0.9
+Deleted tag 'v0.9' (was 6224937)
+```
+
+然后，从远程删除。删除命令也是push，但是格式如下：
+
+```
+$ git push origin :refs/tags/v0.9
+To git@github.com:michaelliao/learngit.git
+ - [deleted]         v0.9
+```
+
+要看看是否真的从远程库删除了标签，可以登陆GitHub查看。
+
+#### 小结
+
+- 命令`git push origin <tagname>`可以推送一个本地标签；
+- 命令`git push origin --tags`可以推送全部未推送过的本地标签；
+- 命令`git tag -d <tagname>`可以删除一个本地标签；
+- 命令`git push origin :refs/tags/<tagname>`可以删除一个远程标签。
+
+## 使用GitHub
+
+我们一直用GitHub作为免费的远程仓库，如果是个人的开源项目，放到GitHub上是完全没有问题的。其实GitHub还是一个开源协作社区，通过GitHub，既可以让别人参与你的开源项目，也可以参与别人的开源项目。
+
+在GitHub出现以前，开源项目开源容易，但让广大人民群众参与进来比较困难，因为要参与，就要提交代码，而给每个想提交代码的群众都开一个账号那是不现实的，因此，群众也仅限于报个bug，即使能改掉bug，也只能把diff文件用邮件发过去，很不方便。
+
+但是在GitHub上，利用Git极其强大的克隆和分支功能，广大人民群众真正可以第一次自由参与各种开源项目了。
+
+如何参与一个开源项目呢？比如人气极高的bootstrap项目，这是一个非常强大的CSS框架，你可以访问它的项目主页<https://github.com/twbs/bootstrap>，点“Fork”就在自己的账号下克隆了一个bootstrap仓库，然后，从自己的账号下clone：
+
+```
+git clone git@github.com:michaelliao/bootstrap.git
+```
+
+一定要从自己的账号下clone仓库，这样你才能推送修改。如果从bootstrap的作者的仓库地址`git@github.com:twbs/bootstrap.git`克隆，因为没有权限，你将不能推送修改。
+
+Bootstrap的官方仓库`twbs/bootstrap`、你在GitHub上克隆的仓库`my/bootstrap`，以及你自己克隆到本地电脑的仓库，他们的关系就像下图显示的那样：
+
+![](https://cdn.liaoxuefeng.com/cdn/files/attachments/001384926554932eb5e65df912341c1a48045bc274ba4bf000/0)
+
+如果你想修复bootstrap的一个bug，或者新增一个功能，立刻就可以开始干活，干完后，往自己的仓库推送。
+
+如果你希望bootstrap的官方库能接受你的修改，你就可以在GitHub上发起一个pull request。当然，对方是否接受你的pull request就不一定了。
+
+如果你没能力修改bootstrap，但又想要试一把pull request，那就Fork一下我的仓库：<https://github.com/michaelliao/learngit>，创建一个`your-github-id.txt`的文本文件，写点自己学习Git的心得，然后推送一个pull request给我，我会视心情而定是否接受。
+
+### 小结
+
+- 在GitHub上，可以任意Fork开源仓库；
+- 自己拥有Fork后的仓库的读写权限；
+- 可以推送pull request给官方仓库来贡献代码。
+
+## 自定义Git
+
+在[安装Git](https://www.liaoxuefeng.com/wiki/0013739516305929606dd18361248578c67b8067c8c017b000/00137396287703354d8c6c01c904c7d9ff056ae23da865a000)一节中，我们已经配置了`user.name`和`user.email`，实际上，Git还有很多可配置项。
+
+比如，让Git显示颜色，会让命令输出看起来更醒目：
+
+```
+$ git config --global color.ui true
+```
+
+这样，Git会适当地显示不同的颜色，比如`git status`命令：
+
+![](https://cdn.liaoxuefeng.com/cdn/files/attachments/0013849265828833012fe6261a54c5794959d6c1883590b000/0)
+
+文件名就会标上颜色。
+
+我们在后面还会介绍如何更好地配置Git，以便让你的工作更高效。
+
+### 忽略特殊文件
+
+有些时候，你必须把某些文件放到Git工作目录中，但又不能提交它们，比如保存了数据库密码的配置文件啦，等等，每次`git status`都会显示`Untracked files ...`，有强迫症的童鞋心里肯定不爽。
+
+好在Git考虑到了大家的感受，这个问题解决起来也很简单，在Git工作区的根目录下创建一个特殊的`.gitignore`文件，然后把要忽略的文件名填进去，Git就会自动忽略这些文件。
+
+不需要从头写`.gitignore`文件，GitHub已经为我们准备了各种配置文件，只需要组合一下就可以使用了。所有配置文件可以直接在线浏览：<https://github.com/github/gitignore>
+
+忽略文件的原则是：
+
+1. 忽略操作系统自动生成的文件，比如缩略图等；
+2. 忽略编译生成的中间文件、可执行文件等，也就是如果一个文件是通过另一个文件自动生成的，那自动生成的文件就没必要放进版本库，比如Java编译产生的`.class`文件；
+3. 忽略你自己的带有敏感信息的配置文件，比如存放口令的配置文件。
+
+举个例子：
+
+假设你在Windows下进行Python开发，Windows会自动在有图片的目录下生成隐藏的缩略图文件，如果有自定义目录，目录下就会有`Desktop.ini`文件，因此你需要忽略Windows自动生成的垃圾文件：
+
+```
+# Windows:
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+```
+
+然后，继续忽略Python编译产生的`.pyc`、`.pyo`、`dist`等文件或目录：
+
+```
+# Python:
+*.py[cod]
+*.so
+*.egg
+*.egg-info
+dist
+build
+```
+
+加上你自己定义的文件，最终得到一个完整的`.gitignore`文件，内容如下：
+
+```
+# Windows:
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# Python:
+*.py[cod]
+*.so
+*.egg
+*.egg-info
+dist
+build
+
+# My configurations:
+db.ini
+deploy_key_rsa
+```
+
+最后一步就是把`.gitignore`也提交到Git，就完成了！当然检验`.gitignore`的标准是`git status`命令是不是说`working directory clean`。
+
+使用Windows的童鞋注意了，如果你在资源管理器里新建一个`.gitignore`文件，它会非常弱智地提示你必须输入文件名，但是在文本编辑器里“保存”或者“另存为”就可以把文件保存为`.gitignore`了。
+
+有些时候，你想添加一个文件到Git，但发现添加不了，原因是这个文件被`.gitignore`忽略了：
+
+```
+$ git add App.class
+The following paths are ignored by one of your .gitignore files:
+App.class
+Use -f if you really want to add them.
+```
+
+如果你确实想添加该文件，可以用`-f`强制添加到Git：
+
+```
+$ git add -f App.class
+```
+
+或者你发现，可能是`.gitignore`写得有问题，需要找出来到底哪个规则写错了，可以用`git check-ignore`命令检查：
+
+```
+$ git check-ignore -v App.class
+.gitignore:3:*.class    App.class
+```
+
+Git会告诉我们，`.gitignore`的第3行规则忽略了该文件，于是我们就可以知道应该修订哪个规则。
+
+#### 小结
+
+- 忽略某些文件时，需要编写`.gitignore`；
+- `.gitignore`文件本身要放到版本库里，并且可以对`.gitignore`做版本管理！
+
+### 配置别名
+
+有没有经常敲错命令？比如`git status`？`status`这个单词真心不好记。
+
+如果敲`git st`就表示`git status`那就简单多了，当然这种偷懒的办法我们是极力赞成的。
+
+我们只需要敲一行命令，告诉Git，以后`st`就表示`status`：
+
+```
+$ git config --global alias.st status
+```
+
+好了，现在敲`git st`看看效果。
+
+当然还有别的命令可以简写，很多人都用`co`表示`checkout`，`ci`表示`commit`，`br`表示`branch`：
+
+```
+$ git config --global alias.co checkout
+$ git config --global alias.ci commit
+$ git config --global alias.br branch
+```
+
+以后提交就可以简写成：
+
+```
+$ git ci -m "bala bala bala..."
+```
+
+`--global`参数是全局参数，也就是这些命令在这台电脑的所有Git仓库下都有用。
+
+在[撤销修改](https://www.liaoxuefeng.com/wiki/0013739516305929606dd18361248578c67b8067c8c017b000/001374831943254ee90db11b13d4ba9a73b9047f4fb968d000)一节中，我们知道，命令`git reset HEAD file`可以把暂存区的修改撤销掉（unstage），重新放回工作区。既然是一个unstage操作，就可以配置一个`unstage`别名：
+
+```
+$ git config --global alias.unstage 'reset HEAD'
+```
+
+当你敲入命令：
+
+```
+$ git unstage test.py
+```
+
+实际上Git执行的是：
+
+```
+$ git reset HEAD test.py
+```
+
+配置一个`git last`，让其显示最后一次提交信息：
+
+```
+$ git config --global alias.last 'log -1'
+```
+
+这样，用`git last`就能显示最近一次的提交：
+
+```
+$ git last
+commit adca45d317e6d8a4b23f9811c3d7b7f0f180bfe2
+Merge: bd6ae48 291bea8
+Author: Michael Liao <askxuefeng@gmail.com>
+Date:   Thu Aug 22 22:49:22 2013 +0800
+
+    merge & fix hello.py
+```
+
+甚至还有人丧心病狂地把`lg`配置成了：
+
+```
+git config --global alias.lg "log --color --graph --pretty=format:'%Cred%h%Creset -%C(yellow)%d%Creset %s %Cgreen(%cr) %C(bold blue)<%an>%Creset' --abbrev-commit"
+```
+
+来看看`git lg`的效果：
+
+![](https://cdn.liaoxuefeng.com/cdn/files/attachments/00138492662982594cbd1a942114472aeeb5f0a502faed1000/0)
+
+为什么不早点告诉我？别激动，咱不是为了多记几个英文单词嘛！
+
+#### 配置文件
+
+配置Git的时候，加上`--global`是针对当前用户起作用的，如果不加，那只针对当前的仓库起作用。
+
+配置文件放哪了？每个仓库的Git配置文件都放在`.git/config`文件中：
+
+```
+$ cat .git/config 
+[core]
+    repositoryformatversion = 0
+    filemode = true
+    bare = false
+    logallrefupdates = true
+    ignorecase = true
+    precomposeunicode = true
+[remote "origin"]
+    url = git@github.com:michaelliao/learngit.git
+    fetch = +refs/heads/*:refs/remotes/origin/*
+[branch "master"]
+    remote = origin
+    merge = refs/heads/master
+[alias]
+    last = log -1
+```
+
+别名就在`[alias]`后面，要删除别名，直接把对应的行删掉即可。
+
+而当前用户的Git配置文件放在用户主目录下的一个隐藏文件`.gitconfig`中：
+
+```
+$ cat .gitconfig
+[alias]
+    co = checkout
+    ci = commit
+    br = branch
+    st = status
+[user]
+    name = Your Name
+    email = your@email.com
+```
+
+配置别名也可以直接修改这个文件，如果改错了，可以删掉文件重新通过命令配置。
+
+#### 小结
+
+给Git配置好别名，就可以输入命令时偷个懒。我们鼓励偷懒。
+
+### 搭建Git服务器
+
+在[远程仓库](https://www.liaoxuefeng.com/wiki/0013739516305929606dd18361248578c67b8067c8c017b000/001374385852170d9c7adf13c30429b9660d0eb689dd43a000)一节中，我们讲了远程仓库实际上和本地仓库没啥不同，纯粹为了7x24小时开机并交换大家的修改。
+
+GitHub就是一个免费托管开源代码的远程仓库。但是对于某些视源代码如生命的商业公司来说，既不想公开源代码，又舍不得给GitHub交保护费，那就只能自己搭建一台Git服务器作为私有仓库使用。
+
+搭建Git服务器需要准备一台运行Linux的机器，强烈推荐用Ubuntu或Debian，这样，通过几条简单的`apt`命令就可以完成安装。
+
+假设你已经有`sudo`权限的用户账号，下面，正式开始安装。
+
+第一步，安装`git`：
+
+```
+$ sudo apt-get install git
+```
+
+第二步，创建一个`git`用户，用来运行`git`服务：
+
+```
+$ sudo adduser git
+```
+
+第三步，创建证书登录：
+
+收集所有需要登录的用户的公钥，就是他们自己的`id_rsa.pub`文件，把所有公钥导入到`/home/git/.ssh/authorized_keys`文件里，一行一个。
+
+第四步，初始化Git仓库：
+
+先选定一个目录作为Git仓库，假定是`/srv/sample.git`，在`/srv`目录下输入命令：
+
+```
+$ sudo git init --bare sample.git
+```
+
+Git就会创建一个裸仓库，裸仓库没有工作区，因为服务器上的Git仓库纯粹是为了共享，所以不让用户直接登录到服务器上去改工作区，并且服务器上的Git仓库通常都以`.git`结尾。然后，把owner改为`git`：
+
+```
+$ sudo chown -R git:git sample.git
+```
+
+第五步，禁用shell登录：
+
+出于安全考虑，第二步创建的git用户不允许登录shell，这可以通过编辑`/etc/passwd`文件完成。找到类似下面的一行：
+
+```
+git:x:1001:1001:,,,:/home/git:/bin/bash
+```
+
+改为：
+
+```
+git:x:1001:1001:,,,:/home/git:/usr/bin/git-shell
+```
+
+这样，`git`用户可以正常通过ssh使用git，但无法登录shell，因为我们为`git`用户指定的`git-shell`每次一登录就自动退出。
+
+第六步，克隆远程仓库：
+
+现在，可以通过`git clone`命令克隆远程仓库了，在各自的电脑上运行：
+
+```
+$ git clone git@server:/srv/sample.git
+Cloning into 'sample'...
+warning: You appear to have cloned an empty repository.
+```
+
+剩下的推送就简单了。
+
+#### 管理公钥
+
+如果团队很小，把每个人的公钥收集起来放到服务器的`/home/git/.ssh/authorized_keys`文件里就是可行的。如果团队有几百号人，就没法这么玩了，这时，可以用[Gitosis](https://github.com/res0nat0r/gitosis)来管理公钥。
+
+这里我们不介绍怎么玩[Gitosis](https://github.com/res0nat0r/gitosis)了，几百号人的团队基本都在500强了，相信找个高水平的Linux管理员问题不大。
+
+#### 管理权限
+
+有很多不但视源代码如生命，而且视员工为窃贼的公司，会在版本控制系统里设置一套完善的权限控制，每个人是否有读写权限会精确到每个分支甚至每个目录下。因为Git是为Linux源代码托管而开发的，所以Git也继承了开源社区的精神，不支持权限控制。不过，因为Git支持钩子（hook），所以，可以在服务器端编写一系列脚本来控制提交等操作，达到权限控制的目的。[Gitolite](https://github.com/sitaramc/gitolite)就是这个工具。
+
+这里我们也不介绍[Gitolite](https://github.com/sitaramc/gitolite)了，不要把有限的生命浪费到权限斗争中。
+
+#### 小结
+
+- 搭建Git服务器非常简单，通常10分钟即可完成；
+- 要方便管理公钥，用[Gitosis](https://github.com/sitaramc/gitolite)；
+- 要像SVN那样变态地控制权限，用[Gitolite](https://github.com/sitaramc/gitolite)。
+
+## 期末总结
+
+终于到了期末总结的时刻了！
+
+经过几天的学习，相信你对Git已经初步掌握。一开始，可能觉得Git上手比较困难，尤其是已经熟悉SVN的童鞋，没关系，多操练几次，就会越用越顺手。
+
+Git虽然极其强大，命令繁多，但常用的就那么十来个，掌握好这十几个常用命令，你已经可以得心应手地使用Git了。
+
+友情附赠国外网友制作的Git Cheat Sheet，建议打印出来备用：
+
+[Git Cheat Sheet](https://pan.baidu.com/s/1kU5OCOB#path=%252Fpub%252Fgit)
+
+现在告诉你Git的官方网站：<http://git-scm.com>，英文自我感觉不错的童鞋，可以经常去官网看看。什么，打不开网站？相信我，我给出的绝对是官网地址，而且，Git官网决没有那么容易宕机，可能是你的人品问题，赶紧面壁思过，好好想想原因。
+
+如果你学了Git后，工作效率大增，有更多的空闲时间健身看电影，那我的教学目标就达到了。
+
+谢谢观看！
