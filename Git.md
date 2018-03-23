@@ -1,6 +1,6 @@
 # Git
 
-[TOC]
+
 
 ## Git 简介
 
@@ -2385,3 +2385,96 @@ Git虽然极其强大，命令繁多，但常用的就那么十来个，掌握�
 如果你学了Git后，工作效率大增，有更多的空闲时间健身看电影，那我的教学目标就达到了。
 
 谢谢观看！
+
+
+
+## 我的笔记
+
+### L2 安装Git
+
+配置用户名和Email地址
+
+```python
+$ git config --global user.name "Your Name"
+$ git config --global user.email "email@example.com"
+```
+
+登录
+
+```python
+ssh -T git@github.com
+```
+
+### L3 创建版本库
+
+**初始化**一个Git仓库，使用`git init`命令，创建一个空的Git仓库 or 重新初始化一个已存在的仓库
+
+```python
+$ git init
+```
+
+**添加**文件到Git仓库
+
+```python
+$ git add <file> #添加文件
+$ git add -A #添加全部文件
+```
+
+**提交**文件到Git 仓库
+
+```python
+$ git commit -m "..." #提交说明
+$ git commit -a #提交全部文件
+$ git commit -a -m "..." #提交全部文件并说明
+```
+
+### L4 时光机穿梭
+
+**查看**仓库当前的状态，该命令可以列出当前目录所有还没有被Git管理的文件和被Git管理且被修改但还未提交(git commit)的文件
+
+```python
+$ git status
+```
+
+比较的是工作目录(Working tree)和暂存区域快照(Index)之间的差异，如果`git status`告诉你有文件被修改过，用`git diff`可以查看修改内容
+
+```python
+$ git diff
+```
+
+#### L4-1 版本回退
+
+查看提交日志，显示从最近到最远的提交日志，可以查看当前版本至初始版本的记录
+
+```python
+$ git log
+$ git log --pretty=oneline #只显示Commit ID
+```
+
+Git必须知道当前版本是哪个版本，在Git中，用`HEAD`表示当前版本，上一个版本就是`HEAD^`，上上一个版本就是`HEAD^^`，当然往上100个版本写100个^比较容易数不过来，所以写成`HEAD~100`
+
+```python
+$ git reset --hard HEAD^
+```
+
+回退版本
+
+```python
+$ git reset --hard HEAD^ #回退上一个版本的文件
+$ git reset --hard <Commit ID> #回退Commit ID版本的文件
+```
+
+显示版本库对象的内容、类型及大小信息
+
+```python
+$ cat <file>
+```
+
+查看命令历史，可以查看所有版本的操作记录，记录你所有操作的每一次命令
+
+```
+$ git reflog
+```
+
+#### L4-3 管理修改
+
