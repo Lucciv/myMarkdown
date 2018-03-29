@@ -4,7 +4,7 @@ brew cask install
 
 brew cask upgrade
 
-cd Documents/myGitHub/myPython
+cd /Users/lucciv/Documents/myGitHub/myPython/
 
 cd /Users/lucciv/Documents/myGitHub
 
