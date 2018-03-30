@@ -1,16 +1,30 @@
+# Paste
+
+## SoftName
+
+finder
+
+firefox
+
+## Shell
+
+cd /Users/lucciv/Documents/myGitHub
+
+cd /Users/lucciv/Documents/myGitHub/myPython/
+
+cd /Users/lucciv/Documents/myGitHub/myMarkdown/
+
+ls -ah
+
+## Brew
+
 brew cask search
 
 brew cask install
 
 brew cask upgrade
 
-cd /Users/lucciv/Documents/myGitHub/myPython/
-
-cd /Users/lucciv/Documents/myGitHub
-
-cd /Users/lucciv/Documents/myGitHub/myMarkdown/
-
-ls -ah
+## Git
 
 git status
 
@@ -23,3 +37,5 @@ git pull
 git add -A
 
 git commit -m ""
+
+git clone
