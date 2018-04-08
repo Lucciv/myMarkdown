@@ -10,7 +10,7 @@
 
 ## 4 - Python基础
 
-### 条件判断
+### 4-4 条件判断
 
 #### if语句
 
@@ -27,7 +27,7 @@
 
 ## 5 - 函数
 
-### 定义函数
+### 5 - 2 定义函数
 
 #### 导入函数
 
@@ -61,7 +61,7 @@ Traceback (most recent call last):
 TypeError: bad operand type
 ```
 
-### 函数的参数
+### 5 - 3 函数的参数
 
 #### 位置参数
 
@@ -417,96 +417,5 @@ for循环后面还可以加上`if`判断，这样我们就可以筛选出仅偶�
 
 一个函数定义中包含`yield`关键字，那么这个函数就不再是一个普通函数，而是一个generator。
 
-### 迭代器
 
-可以直接作用于for循环的数据类型有以下几种：
-
-一类是集合数据类型，如`list`、`tuple`、`dict`、`set`、`str`等；
-
-一类是`generator`，包括生成器和带`yield`的generator function。
-
-这些可以直接作用于`for`循环的对象统称为**可迭代对象**：`Iterable`。
-
-可以使用`isinstance()`判断一个对象是否是`Iterable`对象：
-
-```python
->>> from collections import Iterable
->>> isinstance([], Iterable)
-True
->>> isinstance({}, Iterable)
-True
->>> isinstance('abc', Iterable)
-True
->>> isinstance((x for x in range(10)), Iterable)
-True
->>> isinstance(100, Iterable)
-False
-```
-
-可以被`next()`函数调用并不断返回下一个值的对象称为**迭代器**：`Iterator`。
-
-可以使用`isinstance()`判断一个对象是否是`Iterator`对象：
-
-```python
->>> from collections import Iterator
->>> isinstance((x for x in range(10)), Iterator)
-True
->>> isinstance([], Iterator)
-False
->>> isinstance({}, Iterator)
-False
->>> isinstance('abc', Iterator)
-False
-```
-
-生成器都是`Iterator`对象，但`list`、`dict`、`str`虽然是`Iterable`，却不是`Iterator`。
-
-把`list`、`dict`、`str`等`Iterable`变成`Iterator`可以使用`iter()`函数：
-
-```python
->>> isinstance(iter([]), Iterator)
-True
->>> isinstance(iter('abc'), Iterator)
-True
-```
-
-Python的`for`循环本质上就是通过不断调用`next()`函数实现的，例如：
-
-```python
-for x in [1, 2, 3, 4, 5]:
-    pass
-```
-
-实际上完全等价于：
-
-```python
-# 首先获得Iterator对象:
-it = iter([1, 2, 3, 4, 5])
-# 循环:
-while True:
-    try:
-        # 获得下一个值:
-        x = next(it)
-    except StopIteration:
-        # 遇到StopIteration就退出循环
-        break
-```
-
-## 7-函数式编程
-
-函数是Python内建支持的一种封装，我们通过把大段代码拆成函数，通过一层一层的函数调用，就可以把复杂任务分解成简单的任务，这种分解可以称之为面向过程的程序设计。函数就是面向过程的程序设计的基本单元。
-
-函数式编程就是一种抽象程度很高的编程范式，纯粹的函数式编程语言编写的函数没有变量，因此，任意一个函数，只要输入是确定的，输出就是确定的，这种纯函数我们称之为没有副作用。而允许使用变量的程序设计语言，由于函数内部的变量状态不确定，同样的输入，可能得到不同的输出，因此，这种函数是有副作用的。
-
-函数式编程的一个特点就是，允许把函数本身作为参数传入另一个函数，还允许返回一个函数！
-
-Python对函数式编程提供部分支持。由于Python允许使用变量，因此，Python不是纯函数式编程语言。
-
-### 高阶函数
-
-#### map/reduce
-
-`map()`函数接收两个参数，一个是函数，一个是`Iterable`，`map`将传入的函数依次作用到序列的每个元素，并把结果作为新的`Iterator`返回。
-
-`reduce`把一个函数作用在一个序列`[x1, x2, x3, ...]`上，这个函数必须接收两个参数，`reduce`把结果继续和序列的下一个元素做累积计算。
 
