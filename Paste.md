@@ -40,6 +40,14 @@ git commit -m ""
 
 git clone
 
+git log --pretty=oneline
+
+git reset --hard 
+
+git reset --hard HEAD^
+
+git reflog
+
 ## Work
 
 width: px;height: px;
