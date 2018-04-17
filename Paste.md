@@ -30,6 +30,8 @@ git status
 
 git init
 
+git checkout -- file
+
 git push -u origin master
 
 git pull
