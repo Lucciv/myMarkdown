@@ -29,3 +29,30 @@
     vertical-align: middle;
 }
   ```
+
+
+
+## 2.列表文字浮动时空白换行的解决方案
+
+`HTML`代码：
+
+```html
+<ul class="govMapListBox">
+  <li><a href="#" target="_blank" class="govMapText">标题标</a></li>
+  <li><a href="#" target="_blank" class="govMapText">标</a></li>
+  <li><a href="#" target="_blank" class="govMapText">标题</a></li>
+  <li><a href="#" target="_blank" class="govMapText">标</a></li>
+  <li><a href="#" target="_blank" class="govMapText">标题</a></li>
+  <li><a href="#" target="_blank" class="govMapText">标题标题</a></li>
+  <li><a href="#" target="_blank" class="govMapText">标题标题标题</a></li>
+  <li><a href="#" target="_blank" class="govMapText">标题标</a></li>
+  <li><a href="#" target="_blank" class="govMapText">标题标</a></li>
+</ul>
+```
+ `CSS`代码：
+
+```css
+.govMapListBox{width: 100%;overflow: hidden;}
+.govMapListBox li{float: left;white-space: nowrap;margin-right: 40px;margin-bottom: 20px;}
+```
+
