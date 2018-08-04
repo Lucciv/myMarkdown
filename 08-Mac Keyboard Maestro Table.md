@@ -47,7 +47,8 @@ Push To Markdown Git:
 2. 输入`git add -A`;
 3. 输入`git commit -m "Add Markdown Files"`;
 4. 输入`git push -u origin master`;
-5. 输入`git status`。
+5. 输入`git status`;
+6. 打开GitHub网站。
 
 |          Applications          |    快捷键    |                  功能                   |
 | :----------------------------: | :----------: | :-------------------------------------: |
