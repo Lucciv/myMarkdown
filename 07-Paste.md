@@ -30,6 +30,8 @@ git status
 
 git init
 
+git checkout -- file
+
 git push -u origin master
 
 git pull
@@ -48,6 +50,18 @@ git reset --hard HEAD^
 
 git reflog
 
+git log --graph --pretty=oneline --abbrev-commit
+
+git merge --no-ff -m "" [branch name]
+
+git stash
+
+git stash list
+
+git stash apply stash@{}
+
+git stash pop
+
 ## Work
 
 width: px;height: px;
@@ -57,4 +71,6 @@ background-color: #;
 background-color: skyblue;
 
 position: absolute;top: 0;left: 0;
+
+white-space: nowrap;
 
