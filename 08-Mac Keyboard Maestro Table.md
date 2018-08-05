@@ -61,5 +61,5 @@ Push To Markdown Git:
 | Applications |   快捷键    | 功能 |
 | :----------: | :---------: | :--: |
 |              | ⌘ + ⇧ + ⌥ + |      |
-|              |      1      |      |
-|              |      2      |      |
+|    iTerm     |      1      |      |
+|    WeChat    |      2      |      |
