@@ -1,6 +1,6 @@
 # Keyboard Maestro Table
 
-## Finder
+## 01_Folders
 
 |   Applications   |    快捷键    |                     功能                     |
 | :--------------: | :----------: | :------------------------------------------: |
@@ -16,7 +16,7 @@
 |                  |      9      |                                              |
 |                  |      0      |                                              |
 
-## Chrome
+## 02_Bookmark
 
 |  Applications   |    快捷键    |                        功能                         |
 | :-------------: | :----------: | :-------------------------------------------------: |
@@ -32,7 +32,22 @@
 |                 |      9       |                                                     |
 |                 |      0       |                                                     |
 
-## Writing Markdown
+## 03_Quick AppliCations
+
+|   Applications   |  快捷键   | 功能 |
+| :--------------: | :-------: | :--: |
+|                  | ⌘ + ⇧ + 0 |      |
+|      iTerm       |     1     |      |
+|      WeChat      |     2     |      |
+|      Trello      |     3     |      |
+|    YoudaoNote    |     4     |      |
+|     Evernote     |     5     |      |
+| Keyboard Maestro |     6     |      |
+|     BaiduYun     |     7     |      |
+|      XunLei      |     8     |      |
+|      Chrome      |     9     |      |
+
+## 04_CommonOperation
 
 思路M1：
 
@@ -55,11 +70,6 @@ Push To Markdown Git:
 | Open Markdown_Keyboard Maestro | ⌘ + ⇧ + ⌥ +4 |            打开Markdown面板             |
 |       OpenMarkdownNotes        |      1       |            打开Markdown笔记             |
 |       PushToMarkdownGit        |      2       | `Markdown Files`**更新**并**上传**`Git` |
+|      PullToMarkdownFiles       |      3       |    `Git`**更新**到`Markdown Folder`     |
 
-## Useful App
 
-| Applications |   快捷键    | 功能 |
-| :----------: | :---------: | :--: |
-|              | ⌘ + ⇧ + ⌥ + |      |
-|    iTerm     |      1      |      |
-|    WeChat    |      2      |      |
