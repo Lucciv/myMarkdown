@@ -4,7 +4,7 @@
 
 #### [iStat Menus](https://bjango.com/mac/istatmenus/)
 
-这是MacOS 最好的[系统状态](https://www.isofts.org/tag/%e7%b3%bb%e7%bb%9f%e7%8a%b6%e6%80%81/)监控工具，主要是监控系统运行状态的，功能很强大，通过该应用即时了解Mac的各种情况，比如硬件温度，网速、内存和硬盘使用率等。 
+这是MacOS 最好的系统状态监控工具，主要是监控系统运行状态的，功能很强大，通过该应用即时了解Mac的各种情况，比如硬件温度，网速、内存和硬盘使用率等。 
 
 #### [Magnet](http://magnet.crowdcafe.com/)
 
@@ -81,7 +81,7 @@ MacOS的自动化神器 Keyboard Maestro，以上的操作就**一键**完成。
 
 #### [iTerm2](http://www.iterm2.com/)
 
-MacOS最好的终端工具之一 ，是系统自带的`Terminal`的替代品，配置**[Oh My Zsh](https://github.com/robbyrussell/oh-my-zsh)**让它用起来更强大、更舒适。
+MacOS最好的终端工具之一 ，是系统自带的`Terminal`的替代品，配置[Oh My Zsh](https://github.com/robbyrussell/oh-my-zsh)让它用起来更强大、更舒适。
 
 #### [Clipy](https://clipy-app.com/)
 
