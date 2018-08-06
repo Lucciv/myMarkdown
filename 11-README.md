@@ -11,4 +11,7 @@
 11. 11-README
 12. 12-Vim
 13. 13-WebLink
-14. 
+14. 14-WebLink2
+15. 15-Js难点讲解
+16. 16-JavaScript 学习指南（2018版）
+17. 17-SublimeText PackageControl

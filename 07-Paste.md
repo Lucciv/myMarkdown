@@ -10,9 +10,11 @@ firefox
 
 cd /Users/lucciv/Documents/myGitHub
 
-cd /Users/lucciv/Documents/myGitHub/myPython/
-
 cd /Users/lucciv/Documents/myGitHub/myMarkdown/
+
+cd /Users/lucciv/Documents/myGitHub/myJavaScript
+
+cd /Users/lucciv/Documents/myGitHub/myPython/
 
 ls -ah
 
@@ -23,6 +25,16 @@ brew cask search
 brew cask install
 
 brew cask upgrade
+
+brew upgrade
+
+mas upgrade
+
+brew cask uninstall 
+
+brew cask list
+
+mas list
 
 ## Git
 

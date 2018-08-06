@@ -11,10 +11,9 @@
 |    Watch_Film    |      4      | 下载文件夹 **/** 电影文件夹 |
 |    Watch_Pic     |      5      |          JieTu文件夹 / 图片文件夹           |
 | Reading |      6      | iBook文件夹 / LearnBook文件夹 |
-| Work |      7      |                                              |
-|                  |      8      |                                              |
-|                  |      9      |                                              |
-|                  |      0      |                                              |
+| Work |      7      | myWork文件夹 |
+| OpenDownloads |      8      | Downloads文件夹 |
+| Open_aPic |      9      | MacV文件夹 |
 
 ## 02_Bookmark
 
@@ -34,18 +33,18 @@
 
 ## 03_Quick AppliCations
 
-|   Applications   |  快捷键   | 功能 |
-| :--------------: | :-------: | :--: |
-|                  | ⌘ + ⇧ + 0 |      |
-|      iTerm       |     1     |      |
-|      WeChat      |     2     |      |
-|      Trello      |     3     |      |
-|    YoudaoNote    |     4     |      |
-|     Evernote     |     5     |      |
-| Keyboard Maestro |     6     |      |
-|     BaiduYun     |     7     |      |
-|      XunLei      |     8     |      |
-|      Chrome      |     9     |      |
+|   Applications   |  快捷键   |    功能     |
+| :--------------: | :-------: | :---------: |
+|   QuickOpenApp   | ⌘ + ⇧ + 0 | 打开App面板 |
+|      iTerm       |     1     |             |
+|      WeChat      |     2     |             |
+|      Trello      |     3     |             |
+|    YoudaoNote    |     4     |             |
+|     Evernote     |     5     |             |
+| Keyboard Maestro |     6     |             |
+|     BaiduYun     |     7     |             |
+|      XunLei      |     8     |             |
+|      Chrome      |     9     |             |
 
 ## 04_CommonOperation
 
@@ -68,8 +67,8 @@ Push To Markdown Git:
 |          Applications          |    快捷键    |                  功能                   |
 | :----------------------------: | :----------: | :-------------------------------------: |
 | Open Markdown_Keyboard Maestro | ⌘ + ⇧ + ⌥ +4 |            打开Markdown面板             |
-|       OpenMarkdownNotes        |      1       |            打开Markdown笔记             |
-|       PushToMarkdownGit        |      2       | `Markdown Files`**更新**并**上传**`Git` |
-|      PullToMarkdownFiles       |      3       |    `Git`**更新**到`Markdown Folder`     |
+|      01-OpenMarkdownNotes      |      1       |            打开Markdown笔记             |
+|      02-PushToMarkdownGit      |      2       | `Markdown Files`**更新**并**上传**`Git` |
+|     03-PullToMarkdownFiles     |      3       |    `Git`**更新**到`Markdown Folder`     |
 
 
