@@ -4,7 +4,7 @@
 
 #### [iStat Menus](https://bjango.com/mac/istatmenus/)
 
-这是MacOS 最好的系统状态监控工具，主要是监控系统运行状态的，功能很强大，通过该应用即时了解Mac的各种情况，比如硬件温度，网速、内存和硬盘使用率等。 
+这是MacOS 最好的系统状态监控工具，主要是监控系统运行状态，功能很强大，通过该应用即时了解Mac的各种情况，比如硬件温度，网速、内存和硬盘使用率等。 
 
 #### [Magnet](http://magnet.crowdcafe.com/)
 
@@ -24,7 +24,7 @@ MacOS窗口切换工具。参考资料：[少数派](https://sspai.com/post/3246
 
 #### [Amphetamine](https://itunes.apple.com/cn/app/amphetamine/id937984704?mt=12)
 
-MacOS最强大的防止休眠工具，它的核心功能是保持屏幕常亮，允许你设置保持常亮的时间长度以及时间间区，同时你还可以设置定时。 
+MacOS最强大的防止休眠工具，它允许你设置保持屏幕常亮的时间长度以及时间间区，同时你还可以设置定时。 
 
 #### [SlowQuitApps](https://github.com/dteoh/SlowQuitApps)
 
