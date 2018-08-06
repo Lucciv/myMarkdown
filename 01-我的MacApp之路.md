@@ -31,6 +31,10 @@ macOS 的自动化神器 Keyboard Maestro，以上的操作就**一键**完成�
 [少数派链接](https://sspai.com/post/36442)
 [AppSo链接](http://www.ifanr.com/app/796750)
 
+#### [BetterTouchTool](https://folivora.ai/)
+
+Mac 上非常强大的触控板增强工具，以用来代替默认的系统操作方式（组合键、修饰键、手势等），其目的是方便用户创造出更适合自身习惯的操作行为，创建自定义手势，从而大大提高其实用性。
+
 ### 开发类
 
 #### [Dash](https://kapeli.com/dash)
