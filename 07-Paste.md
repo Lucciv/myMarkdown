@@ -62,15 +62,35 @@ git stash apply stash@{}
 
 git stash pop
 
+git lg
+
+git config --global alias.lg "log --color --graph --pretty=format:'%Cred%h%Creset -%C(yellow)%d%Creset %s %Cgreen(%cr) %C(bold blue)<%an>%Creset' --abbrev-commit"
+
 ## Work
 
-width: px;height: px;
+`width: px;height: px;`
 
-background-color: #;
+`background-color: #;`
 
-background-color: skyblue;
+`background-color: skyblue;`
 
-position: absolute;top: 0;left: 0;
+`position: absolute;top: 0;left: 0;`
 
-white-space: nowrap;
+`white-space: nowrap;`
+
+`font-size: px;color: #;`
+
+`background: url(../);`
+
+`<a href="#" target="_blank" class=""></a>`
+
+`border:1px solid #;`
+
+`width: 100%;overflow: hidden;`
+
+`<span class=""></span>`
+
+`<p class=""></p>`
+
+
 

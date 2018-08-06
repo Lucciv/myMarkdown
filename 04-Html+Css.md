@@ -1,7 +1,11 @@
 # HTML+CSS
+
 [TOC]
+
 ## 1. 多行文字垂直居中
+
 `HTML`代码：
+
 ```html
 <div class="govbox">
   <a class="govGeTx" href="#" target="_blank">
@@ -9,8 +13,10 @@
   </a>
 </div>
 ```
+
  `CSS`代码：
-  ```css
+
+```css
 .govGeTx
 {
     line-height: 116px;
@@ -28,7 +34,7 @@
     display: inline-block;
     vertical-align: middle;
 }
-  ```
+```
 
 
 
@@ -49,10 +55,30 @@
   <li><a href="#" target="_blank" class="govMapText">标题标</a></li>
 </ul>
 ```
+
  `CSS`代码：
 
 ```css
 .govMapListBox{width: 100%;overflow: hidden;}
 .govMapListBox li{float: left;white-space: nowrap;margin-right: 40px;margin-bottom: 20px;}
+```
+
+
+
+## 3.CSS不定宽度的块级元素水平居中
+
+`HTML`代码：
+
+```html
+<div class="div1">
+	<div class="div2">aaa</div>
+</div>
+```
+
+ `CSS`代码：
+
+```css
+.div1{float:left;position:relative;left:50%;}
+.div2{position:relative;left:-50%;}
 ```
 
