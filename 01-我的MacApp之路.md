@@ -58,6 +58,14 @@ MacOS的磁盘清理、软件卸载及系统优化工具。
 
 Mac 上最流行的解压软件，免费开源。
 
+#### [Near Lock](https://nearlock.me/)
+
+*iPhone*来自动锁定和解锁您的*Mac*。
+
+#### [Hider](https://macpaw.com/hider)
+
+MacOS文件隐藏工具 ，提供了非常方便的隐藏方式，将文件拖入 Hider 操作区即可实现，同时还提供了快速显示隐藏文件的开关、私密图片文件夹管理等功能。
+
 ### 效率类
 
 #### [Alfred 3](https://www.alfredapp.com/)
@@ -90,6 +98,10 @@ MacOS免费开源的剪贴板管理工具，支持分组。
 #### [aText](http://www.trankynam.com/atext/)
 
 MacOS的快速输入补全文字工具，能够让你使用简短快捷字符代替长文字。
+
+#### [Yoink](https://eternalstorms.at/yoink/mac/)
+
+MacOS的临时文件暂存的工具类 App，它就像是一个**中转站**，让你能更轻松地把文件从一个窗口移动到另一个窗口。
 
 #### [Translator](http://translator.playstone.org/)
 
@@ -141,6 +153,10 @@ MacOS的Markdown笔记编辑工具，支持实时预览。
 #### [MacVim](http://macvim-dev.github.io/macvim/)
 
 MacOS上的Vim编辑器。
+
+#### [Scapple](https://www.literatureandlatte.com/scapple/overview)
+
+Scapple 是一款可以让你在 macOS 上头脑风暴并将其梳理的工具。在 Scapple 的画布中，文字、图片、乃至 PDF、DOC 等文档内容都可以拖放进 Scapple，随意摆放位置，再通过箭头建立从属关系。之后还可以将其输出为多种格式，一款不可多得的思维管理工具。
 
 ### 生活类
 

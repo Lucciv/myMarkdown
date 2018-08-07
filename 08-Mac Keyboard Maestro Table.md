@@ -1,37 +1,6 @@
 # Keyboard Maestro Table
 
-## 01_Folders
-
-|   Applications   |    快捷键    |                     功能                     |
-| :--------------: | :----------: | :------------------------------------------: |
-| Finder Palettle  | ⌘ + ⇧ + ⌥ +1 |                打开Finder面板                |
-| Activate_Finder | 1 |打开Finder主文件夹|
-| Learn_JavaScript |      2      |       Git文件夹 **/** JavaScript文件夹       |
-| Writing_Markdown |      3      |                Markdown文件夹                |
-|    Watch_Film    |      4      | 下载文件夹 **/** 电影文件夹 |
-|    Watch_Pic     |      5      |          JieTu文件夹 / 图片文件夹           |
-| Reading |      6      | iBook文件夹 / LearnBook文件夹 |
-| Work |      7      | myWork文件夹 |
-| OpenDownloads |      8      | Downloads文件夹 |
-| Open_aPic |      9      | MacV文件夹 |
-
-## 02_Bookmark
-
-|  Applications   |    快捷键    |                        功能                         |
-| :-------------: | :----------: | :-------------------------------------------------: |
-| Chrome Palettle | ⌘ + ⇧ + ⌥ +2 |                   打开Chrome面板                    |
-|    书签_学习    |      1       |               廖雪峰Web / 番茄时钟Web               |
-|    书签_电影    |      2       |              胖鸟 / 豆瓣电影 / 时光网               |
-|    书签_资讯    |      3       | 我的小书屋  / 少数派 / cnBeta / 腾讯新闻 / 百度新闻 |
-|    书签_看图    |      4       |            福利吧 / 游民星空 / 鼠绘漫画             |
-|    书签_GTD     |      5       |            Trello/ Rescuetime / WakeTime            |
-|                 |      6       |                                                     |
-|                 |      7       |                                                     |
-|                 |      8       |                                                     |
-|                 |      9       |                                                     |
-|                 |      0       |                                                     |
-
-## 03_Quick AppliCations
+## 00_Quick AppliCations
 
 |   Applications   |  快捷键   |    功能     |
 | :--------------: | :-------: | :---------: |
@@ -46,7 +15,95 @@
 |      XunLei      |     8     |             |
 |      Chrome      |     9     |             |
 
-## 04_CommonOperation
+## 01_Folders
+
+|   Applications   |    快捷键    |                     功能                     |
+| :--------------: | :----------: | :------------------------------------------: |
+| Finder Palettle  | ⌘ + ⇧ + ⌥ +1 |                打开Finder面板                |
+| Activate_Finder | 1 |打开Finder主文件夹|
+| Learn_JavaScript |      2      |       Git文件夹 / JavaScript文件夹       |
+| Writing_Markdown |      3      |                Markdown文件夹                |
+|    Watch_Film    |      4      | 下载文件夹 / 电影文件夹 |
+|    Watch_Pic     |      5      |          JieTu文件夹 / 图片文件夹           |
+| Reading |      6      | iBook文件夹 / LearnBook文件夹 |
+| Work |      7      | myWork文件夹 |
+| OpenDownloads |      8      | Downloads文件夹 |
+| Open_aPic |      9      | MacV文件夹 |
+
+## 02_Bookmark
+
+|  Applications   |    快捷键    |                             功能                             |
+| :-------------: | :----------: | :----------------------------------------------------------: |
+| Chrome Palettle | ⌘ + ⇧ + ⌥ +2 |                        打开Chrome面板                        |
+|     GitHub      |      1       |                [GitHub](https://github.com/)                 |
+|    Learning     |      2       |          [廖雪峰Web](https://www.liaoxuefeng.com/)           |
+|       GTD       |      3       | [番茄土豆](https://pomotodo.com/app/) / [Rescuetime](https://www.rescuetime.com/dashboard) / [WakeTime](https://wakatime.com/dashboard) |
+|   Information   |      4       | [少数派](https://sspai.com/) / [cnBeta](https://www.cnbeta.com/) |
+|      Books      |      5       | [我的小书屋](http://mebook.cc/) / [豆瓣读书](https://book.douban.com/) / [亚马逊图书](https://www.amazon.cn/%E5%9B%BE%E4%B9%A6/b/ref=sa_menu_books_l1?ie=UTF8&node=658390051) |
+|      News       |      6       | [腾讯新闻](http://www.qq.com/) / [百度新闻](http://news.baidu.com/) |
+|       IT        |      7       | [StackOverflow](https://stackoverflow.com/) / [开源中国](https://www.oschina.net/) |
+|       Pic       |      8       | [福利吧](http://fuliba.net/) / [游民星空](http://www.gamersky.com/) / [鼠绘漫画](http://www.ishuhui.com/) |
+|    书签_电影    |      9       | [胖鸟](http://www.pniao.com/) / [豆瓣电影](https://movie.douban.com/) / [时光网](http://www.mtime.com/) |
+|       DD        |      0       |                           ZZ / TT                            |
+
+## 03_Common Operation
+
+|  Applications   |    快捷键    |              功能              |
+| :-------------: | :----------: | :----------------------------: |
+| CommonOperation | ⌘ + ⇧ + ⌥ +3 |           打开CO面板           |
+|   SearchBaiDu   |      1       |            搜索百度            |
+|   SearchBook    |      2       |            搜索书名            |
+|  SearchEnglish  |      3       |             查词典             |
+|    MoveFilm     |      4       |        复制到电影文件夹        |
+|     MoveDD      |      5       |         复制到DD文件夹         |
+|     UPMove      |      6       | 从优盘里的电影复制到电影文件夹 |
+
+思路-搜索百度：
+
+1. 复制；
+2. 打开`Alfred 3`；
+3. 输入`bd`；
+4. 按空格键；
+5. 粘贴；
+6. Enter。
+
+思路-搜索书名：
+
+1. 复制；
+2. 打开`Alfred 3`；
+3. 输入`dbr`；
+4. 按空格键；
+5. 粘贴；
+6. Enter。
+
+思路-查词典：
+
+1. 复制；
+2. 打开`Alfred 3`；
+3. 输入`ii`；
+4. 按空格键；
+5. 粘贴；
+6. Enter。
+
+思路-MoveFilm：
+
+1. 打开`Downloads`文件夹；
+2. 复制；
+3. 打开`Movies`文件夹；
+4. 剪贴。
+
+思路-MoveDD：
+
+1. 复制；
+2. 打开DD文件夹；
+3. 重名；
+4. 粘贴；
+5. 打开`Downloads`文件夹；
+6. 复制；
+7. 打开DD文件夹；
+8. 剪贴。
+
+## 04_Git
 
 思路M1：
 
@@ -64,11 +121,48 @@ Push To Markdown Git:
 5. 输入`git status`;
 6. 打开GitHub网站。
 
-|          Applications          |    快捷键    |                  功能                   |
-| :----------------------------: | :----------: | :-------------------------------------: |
-| Open Markdown_Keyboard Maestro | ⌘ + ⇧ + ⌥ +4 |            打开Markdown面板             |
-|      01-OpenMarkdownNotes      |      1       |            打开Markdown笔记             |
-|      02-PushToMarkdownGit      |      2       | `Markdown Files`**更新**并**上传**`Git` |
-|     03-PullToMarkdownFiles     |      3       |    `Git`**更新**到`Markdown Folder`     |
+|          Applications          |    快捷键    | 功能                                    |
+| :----------------------------: | :----------: | :-------------------------------------- |
+| Open Markdown_Keyboard Maestro | ⌘ + ⇧ + ⌥ +4 | 打开Markdown面板                        |
+|       OpenMarkdownNotes        |      1       | 打开Markdown笔记                        |
+|       PushToMarkdownGit        |      2       | `Markdown Files`**更新**并**上传**`Git` |
+|      PullToMarkdownFiles       |      3       | `Git`**更新**到`Markdown Folder`        |
+|          PushToJsGit           |      4       | `Js Files`**更新**并**上传**`Git`       |
+|         PullToJsFiles          |      5       | `Git`**更新**到`Js Folder`              |
 
+## 05-Brew
 
+|   Applications   |    快捷键    |     功能     |
+| :--------------: | :----------: | :----------: |
+|       Brew       | ⌘ + ⇧ + ⌥ +5 | 打开Brew面板 |
+|   Brew_Upgrade   |      1       |              |
+| BrewCask_Upgrade |      2       |              |
+|   Brew_Update    |      3       |              |
+|   Mas_Upgrade    |      4       |              |
+
+## 06-Sublime
+
+| Applications  |    快捷键    |      功能       |
+| :-----------: | :----------: | :-------------: |
+|    Sublime    | ⌘ + ⇧ + ⌥ +6 | 打开Sublime面板 |
+| OpenSublimeJs |      1       |        1        |
+|               |      2       |                 |
+|               |      3       |                 |
+|               |      4       |                 |
+
+OpenSublimeJs
+
+思路1：
+
+1. 打开SublimeText App；
+2. 把Sublime调窗口4/3；
+3. 打开`myJavascriptTest`文件夹；
+4. 把那个文件夹调窗口4/1；
+5. 拖动文件夹移动到Sublime侧边栏。
+
+思路2：
+
+1. 打开SublimeText App；
+2. 按`⌘ +O`打开文件夹；
+3. 按`⌘ +f`搜索`myJavascriptTest`文件夹；
+4. 按`Return`。
