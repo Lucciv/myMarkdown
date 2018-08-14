@@ -66,6 +66,16 @@ Mac 上最流行的解压软件，免费开源。
 
 MacOS文件隐藏工具 ，提供了非常方便的隐藏方式，将文件拖入 Hider 操作区即可实现，同时还提供了快速显示隐藏文件的开关、私密图片文件夹管理等功能。
 
+#### [Tuxera NTFS](https://www.tuxera.com/products/tuxera-ntfs-for-mac/)
+
+实现苹果Mac OS X系统读写Microsoft Windows NTFS文件系统，在硬盘、U盘等外接设备中进行全面访问、删除、修改等相关操作。
+
+#### [Mounty](http://enjoygineering.com/mounty/)
+
+NTFS磁盘格式的读写工具，免费。
+
+
+
 ### 效率类
 
 #### [Alfred 3](https://www.alfredapp.com/)

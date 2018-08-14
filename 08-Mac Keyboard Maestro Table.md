@@ -40,7 +40,7 @@
 |       GTD       |      3       | [番茄土豆](https://pomotodo.com/app/) / [Rescuetime](https://www.rescuetime.com/dashboard) / [WakeTime](https://wakatime.com/dashboard) |
 |   Information   |      4       | [少数派](https://sspai.com/) / [cnBeta](https://www.cnbeta.com/) |
 |      Books      |      5       | [我的小书屋](http://mebook.cc/) / [豆瓣读书](https://book.douban.com/) / [亚马逊图书](https://www.amazon.cn/%E5%9B%BE%E4%B9%A6/b/ref=sa_menu_books_l1?ie=UTF8&node=658390051) |
-|      News       |      6       | [腾讯新闻](http://www.qq.com/) / [百度新闻](http://news.baidu.com/) |
+|      News       |      6       | [网易新闻](https://news.163.com/)/ [百度新闻](http://news.baidu.com/) |
 |       IT        |      7       | [StackOverflow](https://stackoverflow.com/) / [开源中国](https://www.oschina.net/) |
 |       Pic       |      8       | [福利吧](http://fuliba.net/) / [游民星空](http://www.gamersky.com/) / [鼠绘漫画](http://www.ishuhui.com/) |
 |    书签_电影    |      9       | [胖鸟](http://www.pniao.com/) / [豆瓣电影](https://movie.douban.com/) / [时光网](http://www.mtime.com/) |
@@ -57,6 +57,7 @@
 |    MoveFilm     |      4       |        复制到电影文件夹        |
 |     MoveDD      |      5       |         复制到DD文件夹         |
 |     UPMove      |      6       | 从优盘里的电影复制到电影文件夹 |
+|   CleanRepeat   |      7       |         匹配去重复文件         |
 
 思路-搜索百度：
 
@@ -94,14 +95,22 @@
 
 思路-MoveDD：
 
-1. 复制；
+1. 复制（文件名）；
 2. 打开DD文件夹；
 3. 重名；
 4. 粘贴；
 5. 打开`Downloads`文件夹；
-6. 复制；
+6. 复制（某个文件）；
 7. 打开DD文件夹；
 8. 剪贴。
+
+思路-CleanRepeat：
+
+1. 复制（文件名）；
+2. 打开指定文件夹；
+3. 按`⌘ +R`;
+4. 粘贴；
+5. 按Esc。
 
 ## 04_Git
 
