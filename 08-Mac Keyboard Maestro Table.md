@@ -28,7 +28,6 @@
 | Reading |      6      | iBook文件夹 / LearnBook文件夹 |
 | Work |      7      | myWork文件夹 |
 | OpenDownloads |      8      | Downloads文件夹 |
-| Open_aPic |      9      | MacV文件夹 |
 
 ## 02_Bookmark
 
@@ -44,7 +43,6 @@
 |       IT        |      7       | [StackOverflow](https://stackoverflow.com/) / [开源中国](https://www.oschina.net/) |
 |       Pic       |      8       | [福利吧](http://fuliba.net/) / [游民星空](http://www.gamersky.com/) / [鼠绘漫画](http://www.ishuhui.com/) |
 |    书签_电影    |      9       | [胖鸟](http://www.pniao.com/) / [豆瓣电影](https://movie.douban.com/) / [时光网](http://www.mtime.com/) |
-|       DD        |      0       |                           ZZ / TT                            |
 
 ## 03_Common Operation
 
@@ -55,62 +53,7 @@
 |   SearchBook    |      2       |            搜索书名            |
 |  SearchEnglish  |      3       |             查词典             |
 |    MoveFilm     |      4       |        复制到电影文件夹        |
-|     MoveDD      |      5       |         复制到DD文件夹         |
-|     UPMove      |      6       | 从优盘里的电影复制到电影文件夹 |
-|   CleanRepeat   |      7       |         匹配去重复文件         |
-
-思路-搜索百度：
-
-1. 复制；
-2. 打开`Alfred 3`；
-3. 输入`bd`；
-4. 按空格键；
-5. 粘贴；
-6. Enter。
-
-思路-搜索书名：
-
-1. 复制；
-2. 打开`Alfred 3`；
-3. 输入`dbr`；
-4. 按空格键；
-5. 粘贴；
-6. Enter。
-
-思路-查词典：
-
-1. 复制；
-2. 打开`Alfred 3`；
-3. 输入`ii`；
-4. 按空格键；
-5. 粘贴；
-6. Enter。
-
-思路-MoveFilm：
-
-1. 打开`Downloads`文件夹；
-2. 复制；
-3. 打开`Movies`文件夹；
-4. 剪贴。
-
-思路-MoveDD：
-
-1. 复制（文件名）；
-2. 打开DD文件夹；
-3. 重名；
-4. 粘贴；
-5. 打开`Downloads`文件夹；
-6. 复制（某个文件）；
-7. 打开DD文件夹；
-8. 剪贴。
-
-思路-CleanRepeat：
-
-1. 复制（文件名）；
-2. 打开指定文件夹；
-3. 按`⌘ +R`;
-4. 粘贴；
-5. 按Esc。
+|     UPMove      |      5       | 从优盘里的电影复制到电影文件夹 |
 
 ## 04_Git
 
@@ -141,37 +84,8 @@ Push To Markdown Git:
 
 ## 05-Brew
 
-|   Applications   |    快捷键    |     功能     |
-| :--------------: | :----------: | :----------: |
-|       Brew       | ⌘ + ⇧ + ⌥ +5 | 打开Brew面板 |
-|   Brew_Upgrade   |      1       |              |
-| BrewCask_Upgrade |      2       |              |
-|   Brew_Update    |      3       |              |
-|   Mas_Upgrade    |      4       |              |
+| Applications |    快捷键    |     功能     |
+| :----------: | :----------: | :----------: |
+|     Brew     | ⌘ + ⇧ + ⌥ +5 | 打开Brew面板 |
+| Brew_Upgrade |      1       |              |
 
-## 06-Sublime
-
-| Applications  |    快捷键    |      功能       |
-| :-----------: | :----------: | :-------------: |
-|    Sublime    | ⌘ + ⇧ + ⌥ +6 | 打开Sublime面板 |
-| OpenSublimeJs |      1       |        1        |
-|               |      2       |                 |
-|               |      3       |                 |
-|               |      4       |                 |
-
-OpenSublimeJs
-
-思路1：
-
-1. 打开SublimeText App；
-2. 把Sublime调窗口4/3；
-3. 打开`myJavascriptTest`文件夹；
-4. 把那个文件夹调窗口4/1；
-5. 拖动文件夹移动到Sublime侧边栏。
-
-思路2：
-
-1. 打开SublimeText App；
-2. 按`⌘ +O`打开文件夹；
-3. 按`⌘ +f`搜索`myJavascriptTest`文件夹；
-4. 按`Return`。

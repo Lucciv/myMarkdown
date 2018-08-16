@@ -66,11 +66,3 @@
 * 娱乐
   * [胖鸟电影最新中英字幕电影美剧下载 热门电影推荐 -胖鸟电影](http://www.pniao.com/)
   * [中国高清网 | 高清电影网|720P|1080P|蓝光原盘|磁力链迅雷下载高清的电影天堂](http://gaoqing.la/)
-  * [爱恋动漫BT下载](http://www.kisssub.org/)
-  * [字幕库(zimuku) -- 字幕下载网站](https://www.zimuku.cn/)
-  * [电影港_高清电影下载_720p高清_1080p高清](http://www.dygang.net/)
-  * [一拳超人 鼠绘漫画网](http://www.ishuhui.com/cartoon/book/53)
-  * [海贼小站](https://one-piece.cn/)
-  * [Torrent Kitty - Free Torrent To Magnet Link Conversion Service](https://www.torrentkitty.tv/)
-  * [少女好颜艺！《狂赌之渊》蛇喰梦子的COSPLAY欣赏-动漫之家新闻站](https://news.dmzj.com/article/12255.html)
-  * [就这么被可爱化了——cos蛇喰梦子，动漫图片软妹文章](https://www.wenlc.com/weixin/20170927A081YF00.html)
