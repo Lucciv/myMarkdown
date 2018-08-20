@@ -3,8 +3,23 @@
 ### 2018-01
 
 ##### 2018-01-01
+
+Nobody can go back and start a new beginning, but anyone can start now and make a new ending. 
+
+没有人可以回到过去重新开始，但谁都可以从现在开始，书写一个全然不同的结局。
+
 ##### 2018-01-02
+
+I don’t have an attitude, just a personality you can’t handle. 
+
+我有的不是态度，而是一种你无法驾驭的个性。
+
 ##### 2018-01-03
+
+Destiny is not a matter of chance, it is a matter of choice; it is not a thing to be waited for, it is a thing to be achieved. 
+
+主宰命运的不是机会，而是选择；机会不是等来的，是争取来的。
+
 ##### 2018-01-04
 ##### 2018-01-05
 ##### 2018-01-06

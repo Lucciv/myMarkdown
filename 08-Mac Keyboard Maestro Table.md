@@ -89,3 +89,56 @@ Push To Markdown Git:
 |     Brew     | ⌘ + ⇧ + ⌥ +5 | 打开Brew面板 |
 | Brew_Upgrade |      1       |              |
 
+
+
+## 06-复制每一句
+
+| Applications |    快捷键    |         功能         |
+| :----------: | :----------: | :------------------: |
+|    CopyES    | ⌘ + ⇧ + ⌥ +6 |   打开每一句面板栏   |
+| CopyTodayES  |      1       | 复制**今天**的每一句 |
+| CopyBeforeES |      2       | 复制**以往**的每一句 |
+
+#### 1-复制**今天**的每一句的步骤（CopyTodayES）：
+* 打开Safari浏览器；
+* 按`Command + L`跳转到地址栏；
+* 输入每一句的`URL`；
+* 输入`rq`并按`3`，进入今天的每一句`URL`；
+* 保存页面；
+* 打开`sublime text`；
+* 打开每日一句`HTML File`；
+* 按`CTRL+R`搜索；
+* 输入`detail-content-en`；
+* 按`Esc`**三**次；
+* 按`w`两次；
+* 按`v-f-<`；
+* 复制；
+* 切换到`Typora`窗口；
+* 粘贴；
+* 按`Backspace`删除`<`这个字符；
+* 保存；
+* 关闭`sublime text`；
+* 删除页面文件。
+#### 2-复制**以往**的每一句的步骤（CopyBeforeES）：
+* 按`Ctrl+L`选中当前行；
+* 复制日期；
+* 按`->`右箭头；
+* 按`Enter`转行；
+* 打开Safari浏览器；
+* 输入每日一句链接；
+* 跳转到地址栏：`Command + L`；
+* 保存页面；
+* 打开`sublime text`；
+* 打开每日一句的页面文件；
+* 搜索“`detail-content-en`；
+* 按`Esc`**三**次；
+* 按`w`两次；
+* 按`v-f-<`；
+* 复制；
+* 切换到`Typora`窗口；
+* 粘贴；
+* 按`Backspace`删除`<`这个字符；
+* 保存；
+* 按下箭头并跳转；
+* 循环。
+
