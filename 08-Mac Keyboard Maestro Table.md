@@ -100,25 +100,25 @@ Push To Markdown Git:
 | CopyBeforeES |      2       | 复制**以往**的每一句 |
 
 #### 1-复制**今天**的每一句的步骤（CopyTodayES）：
-* 打开Safari浏览器；
-* 按`Command + L`跳转到地址栏；
-* 输入每一句的`URL`；
-* 输入`rq`并按`3`，进入今天的每一句`URL`；
-* 保存页面；
-* 打开`sublime text`；
-* 打开每日一句`HTML File`；
-* 按`CTRL+R`搜索；
-* 输入`detail-content-en`；
-* 按`Esc`**三**次；
-* 按`w`两次；
-* 按`v-f-<`；
-* 复制；
-* 切换到`Typora`窗口；
-* 粘贴；
-* 按`Backspace`删除`<`这个字符；
-* 保存；
-* 关闭`sublime text`；
-* 删除页面文件。
+* 打开Safari浏览器；X
+* 按`Command + L`跳转到地址栏；X
+* 输入每一句的`URL`；X
+* 输入`rq`并按`3`，进入今天的每一句`URL`；X
+* 保存页面；X
+* 打开`sublime text`；X
+* 打开每日一句`HTML File`；X
+* 按`CTRL+R`搜索；X
+* 输入`detail-content-en`；X
+* 按`Esc`**三**次；X
+* 按`w`两次；X
+* 按`v-f-<`；X
+* 复制；X
+* 切换到`Typora`窗口；X
+* 粘贴；X
+* 按`Backspace`删除`<`这个字符；X
+* 保存；X
+* 关闭`sublime text`；X
+* 删除页面文件。X
 #### 2-复制**以往**的每一句的步骤（CopyBeforeES）：
 * 按`Ctrl+L`选中当前行；
 * 复制日期；

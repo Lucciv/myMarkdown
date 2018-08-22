@@ -21,33 +21,172 @@ Destiny is not a matter of chance, it is a matter of choice; it is not a thing t
 主宰命运的不是机会，而是选择；机会不是等来的，是争取来的。
 
 ##### 2018-01-04
+
+A true friend is someone who accepts your past, supports your present and encourages your future. 
+
+真正的朋友会接受你的过去，力挺你的现在，鼓舞你的将来。
+
 ##### 2018-01-05
+
+Not everything makes sense. Not everything has to.&nbsp; 
+
+不是每件事都解释得通，也不是每件事都必须解释得通。
+
 ##### 2018-01-06
+
+Let me tell you something my&nbsp;friend: Hope is a dangerous thing. Hope can drive a man insane. 
+
+听我说，朋友，希望是件危险的事。希望能叫人发疯。
+
 ##### 2018-01-07
+
+Look yourself in the mirror and ask yourself, what do I want to do everyday for the rest of my life … Do that. 
+
+问镜子里的自己，接下来的日子我每天想做什么… 然后去做。
+
 ##### 2018-01-08
+
+Sow an act, and you reap a habit. Sow a habit, and you reap a character. Sow a character, and you reap a destiny. 
+
+行为发展成习惯，习惯发展为性格，性格伴随人的一生。
+
 ##### 2018-01-09
+
+Seems right now, that all I have done in my life was making my way here to you. 
+
+我今天才知道，我之所以漂泊就是在向你靠近。
+
 ##### 2018-01-10
+
+Selfishness is not living as one wishes to&nbsp;live, it is asking others to&nbsp;live&nbsp;as one wishes to live.&nbsp; 
+
+过自己想要的生活不是自私，要求别人按自己的意愿生活才是。
+
 ##### 2018-01-11
+
+Please don't deceive yourself. Don't let yourself get too tired.&nbsp; 
+
+请别再欺骗你自己，别让自己活得太累。
+
 ##### 2018-01-12
+
+I don't want to be someone that you're settling for. I don't want to be someone that anyone settles for. 
+
+我不想要你将就,我也不想成为任何人将就的对象。
+
 ##### 2018-01-13
+
+Never put your happiness in someone else's hands.  
+
+永远不要把自己的幸福放到别人的手中。
+
 ##### 2018-01-14
+
+Weep no more, no sigh, nor groan. Sorrow calls no time that’s gone. 
+
+别哭泣，别叹息，别呻吟；悲伤唤不回流逝的时光。
+
 ##### 2018-01-15
+
+You will meet two kinds of people in life: ones who build you up and ones who tear you down. But in the end, you'll thank them both. 
+
+生命中你会遇到两种人：一种是鼓励你的人，一种是打击你的人，最终，这两者都要感谢。 
+
 ##### 2018-01-16
+
+Life turns out to be better only if you think from others' perspective. 
+
+懂得换位思考，人生才会更美好。
+
 ##### 2018-01-17
+
+When you are afraid of losing something ,it means that you have no choice but to abandon it or give up yourself.  
+
+当你害怕失去一样东西时，这意味着，你要么放弃这样东西，要么放弃你自己。
+
 ##### 2018-01-18
+
+If you constantly regret things you did or didn't do in the past, then you won't be able to move forward. Don't live in the past. Live in the present…and the future!  
+
+要是总为过去的事后悔，那你会很难继续前行。不要沉溺于往事。活在当下，看向未来！
+
 ##### 2018-01-19
+
+Once we dreamt that we were strangers. We wake up to find that we were dear to each other.  
+
+我们一度梦见彼此是陌生人，醒来时发现彼此是相亲相爱的。
+
 ##### 2018-01-20
+
+When you're down and out, remember to keep your head up. When you're up and well, remember to keep your feet down. 
+
+穷困潦倒时，要抬头挺胸；春风得意时，要脚踏实地。
+
 ##### 2018-01-21
+
+Accept what was and what is, and you’ll have more positive energy to pursue what will be.  
+
+接受过去和现在的模样，才会有能量去追寻自己的未来。
+
 ##### 2018-01-22
+
+We all have moments of desperation. But if we can face them head on, that’s when we find out just how strong we really are. 
+
+我们都有绝望的时候，只有在勇敢面对时，我们才知道我们有多坚强。
+
 ##### 2018-01-23
+
+Maybe the places that have not been to have been called far away, the people who don't be have are more memorable.  
+
+大概没去过的地方都叫远方，没得到的人都比较难忘。
+
 ##### 2018-01-24
+
+Every loser knows the ways to succeed, but only the successful ones really carry them out persistently.  
+
+每个失败者都知道成功的方法，只有成功者是按照方法坚持去做。 
+
 ##### 2018-01-25
+
+When you rise in life, your friend knows who you are. When you fall down, you know who are your friends. 
+
+当你步步高升时，你的朋友知道你是谁；当你每况愈下时，你会知道谁是你的朋友。 
+
 ##### 2018-01-26
+
+I truly beg you that you can believe how special you are and love who you really love, do what you should do, follow your heart without caring about practical gains or loss. 
+
+愿你在迷茫时，坚信你的珍贵，爱你所爱，行你所行，听从你心，无问西东。
+
 ##### 2018-01-27
+
+There are both views and traps everywhere in life.Make yourself strong enough to endure impending storms. 
+
+人生处处是风景，也处处是陷阱。努力使自己变得强大起来，当风雨来时才能够抵挡。
+
 ##### 2018-01-28
+
+True friends think about you, worry about you, and tell you when they're worried. 
+
+真正的朋友会为你考虑，会担心你，也会和你倾诉他们的忧愁。
+
 ##### 2018-01-29
+
+Things that make life easier: a parent's hug, a lover's kiss, and a friend's support.  
+
+让生活变得轻松的三样东西：父母的拥抱、恋人的亲吻，以及朋友的支持。
+
 ##### 2018-01-30
+
+Take endeavor as a habit instead of temporary passion. 
+
+把努力当成你的习惯，而不是一时心血来潮。
+
 ##### 2018-01-31
+
+Hold fast to your dreams and you can soar even without wings.  
+
+坚持自己的梦想，即使没有翅膀也能飞翔。
 
 ### 2018-02
 
@@ -411,3 +550,10 @@ But know this: the ones that love us never really leave us. And you can always f
 
 Aspire to inspire until I expire. 
 生命不息，奋斗不止。
+
+##### 2018-08-22
+
+Be an especially simple person, do not expect good luck coming suddenly, manage yourself well and cherish time at the moment. 
+
+做一个特别简单的人，不期待突如其来的好运，经营好自己，珍惜眼前的时光！
+
