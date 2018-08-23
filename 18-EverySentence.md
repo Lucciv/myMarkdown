@@ -191,36 +191,153 @@ Hold fast to your dreams and you can soar even without wings.
 ### 2018-02
 
 ##### 2018-02-01
+
+Love is hard, but the reason I still persist is you. 
+
+爱情很难，因为是你，所以再难我都坚持到最后。
+
 ##### 2018-02-02
+
+A true friend never gets in your way unless you happen to be going down.  
+
+真正的朋友绝不会阻挡你的道路，除非你在走下坡路。
+
 ##### 2018-02-03
+
+Life is too short to waste on disappointments. If it is not the end, please smile and go straight ahead.&nbsp; 
+
+生命太短，没时间留给遗憾。若不是终点，请微笑一直向前。
+
 ##### 2018-02-04
+
+Only if the first sign of life, you said I was a piece of pure time, I accompany you to see.&nbsp; 
+
+人生若只如初见，你衔我一片纯白岁月，我陪你看细水长流。
+
 ##### 2018-02-05
+
+Our growth depends not on how many experiences we devour, but on how many we digest. 
+
+囫囵吞枣的人生不是成长，成长是对过往经历的的细细品味领会。
+
 ##### 2018-02-06
+
+You must strive to find your own voice. Because the longer you wait to begin, the less likely you are to find it at all. 
+
+你必须努力去寻找自己的声音，因为你越迟开始寻找，找到的可能性越小。
+
 ##### 2018-02-07
+
+The most painful thing is losing yourself in the process of loving someone too much, and forgetting that you are special too. 
+
+最痛苦的事情是， 在太爱一个人的过程中丧失了自我，忘记了自己也很特别。
+
 ##### 2018-02-08
+
+Home is a place you grow up wanting to leave, and grow old wanting to get back to.  
+
+家是一个你年轻时想离开，年纪大了又想要回归的地方。
+
 ##### 2018-02-09
+
+Sometimes you will never know the true value of a moment until it becomes a memory.  
+
+有时候，直到一些珍贵的时刻成为了回忆，你才会真正意识到它的价值所在。
+
 ##### 2018-02-10
+
+Do not, for one repulse, forgo the purpose that you resolved to effort.  
+
+不要只因一次挫败，就放弃你原来决心想达到的目的。
+
 ##### 2018-02-11
+
+When you finally go back to your old home, you find it wasn't the old home you missed but your childhood. 
+
+时隔多年，你终于回到故乡，这才发现你想念的不是这个地方，而是你的童年。
+
 ##### 2018-02-12
+
+Nobody can go back and start a new beginning, but anyone can start today and make a new ending.  
+
+没有人可以回到过去从头再来，但是每个人都可以从今天开始，创造一个全新的结局。
+
 ##### 2018-02-13
+
+The grand essentials of happiness are: something to do, something to love, and something to hope for.  
+
+获取幸福最重要的是：有所为，有所爱，有所期待。
+
 ##### 2018-02-14
+
+Being single means that you are strong enough and patient to wait for the one who deserves you. 
+
+单身意味着你足够坚强，有足够的耐心去等待值得拥有你的那个人。
+
 ##### 2018-02-15
+
+The most important thing is to enjoy your life—to be happy—it's all that matters.  
+
+享受生活才是最重要的，要快乐，这样就够了。
+
 ##### 2018-02-16
+
+New Year is about getting another chance. A chance to forgive, to do better, to give more, to love more.Happy New Year！ 
+
+新年是给我们一个新的机会去原谅，去进步，去给予更多，去爱得更多。 新年快乐！
+
 ##### 2018-02-17
+
+When you find real friends, hold on to them, treasure them, spend time with them, be kind to them, love them.  
+
+当找到真正的朋友时，得好好的把握住他们，珍惜他们，和他们共度美好时光，真心对他们，爱他们。 
+
 ##### 2018-02-18
+
+Other things may change us, but we start and end with family. So, the love of a family is life's greatest blessing.  
+
+有很多别的事情会改变我们，然而我们源于家庭，归于家庭。因此，家人的爱是生命中最大的福分。 
+
 ##### 2018-02-19
+
+Everybody wants happiness. No one wants pain. But how can you make a rainbow without a little rain?  
+
+人人都想要幸福，却不愿承受痛苦。可不经历风雨，怎能见彩虹？ 
+
 ##### 2018-02-20
+
+Meeting you was fate, becoming your friend was a choice, but falling in love with you was beyond my control. 
+
+遇见你是命运的安排，成为了朋友是我的选择，而爱上你是我无法控制的意外。 
+
 ##### 2018-02-21
+
+Where we love is home, home that our feet may leave, but not our hearts.  
+
+家，是爱之所在。也许我们脚步渐远，但心从未离开。
+
 ##### 2018-02-22
+
+The only limit to our realization of tomorrow will be our doubts of today. 
+
+实现明天理想的唯一障碍是今天的疑虑。
+
 ##### 2018-02-23
+
+Friendship means understanding, not agreement. It means forgiveness, not forgetting. It means the memories last, even if contact is lost.  
+
+友情是理解，不是妥协；是原谅，不是遗忘。即使不联系，感情依然在。
+
 ##### 2018-02-24
+
+If you want love, then this is it. This is real life. It's not perfect but it's real.  
+
+如果你想要爱情，这就是爱。现实生活就是如此，它不完美，但千真万确。
+
 ##### 2018-02-25
 ##### 2018-02-26
 ##### 2018-02-27
 ##### 2018-02-28
-
-### 2018-03
-
 ##### 2018-03-01
 ##### 2018-03-02
 ##### 2018-03-03
@@ -252,9 +369,6 @@ Hold fast to your dreams and you can soar even without wings.
 ##### 2018-03-29
 ##### 2018-03-30
 ##### 2018-03-31
-
-### 2018-04
-
 ##### 2018-04-01
 ##### 2018-04-02
 ##### 2018-04-03
@@ -285,9 +399,6 @@ Hold fast to your dreams and you can soar even without wings.
 ##### 2018-04-28
 ##### 2018-04-29
 ##### 2018-04-30
-
-### 2018-05
-
 ##### 2018-05-01
 ##### 2018-05-02
 ##### 2018-05-03
@@ -319,9 +430,6 @@ Hold fast to your dreams and you can soar even without wings.
 ##### 2018-05-29
 ##### 2018-05-30
 ##### 2018-05-31
-
-### 2018-06
-
 ##### 2018-06-01
 ##### 2018-06-02
 ##### 2018-06-03
@@ -557,3 +665,10 @@ Be an especially simple person, do not expect good luck coming suddenly, manage 
 
 做一个特别简单的人，不期待突如其来的好运，经营好自己，珍惜眼前的时光！
 
+
+
+##### 2018-08-23
+
+There are only two ways to live your life. One is as though nothing is a miracle. The other is as though everything is a miracle. 
+
+生活有两种方式：一种是没有奇迹发生；另一种则是到处是奇迹。
