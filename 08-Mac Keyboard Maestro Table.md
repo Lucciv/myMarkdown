@@ -170,9 +170,13 @@ Push To Markdown Git:
 * width height : `ccwh`
   *  `width: N1px;height: N2px;` 
   * 字符串模板: 动词1：N1；动词2：N2；
-
 * background : `ccbi`
   * background: url(../images/%|%) no-repeat;
 * line-height : `cclh`
   * `height: N1px; line-height: N2px;`
   * 字符串模板: 动词1：N1；动词2：N2；
+* cclisth : HTML模板里的列表box html；
+* cclistc：HTML模板里的列表box css；
+* `vvy` : `"+y` ;
+* `vvp` : `"+p"` ;
+
