@@ -947,25 +947,121 @@ It does not matter how slowly you go as long as you do not stop.
 走的慢不重要，重要的是你不停止。
 
 ##### 2018-06-07
+
+There is nothing difficult for us to do in the world. If we do it, the difficult thing will be easy; if we do not, the easy thing will be difficult. 
+
+天下事有难易乎？为之，则难者亦易矣；不为，则易者亦难矣。
+
 ##### 2018-06-08
+
+Do not let your dream be dream. 
+
+别让你的梦想只成为梦想。
+
 ##### 2018-06-09
+
+To never forget how much your family loves you. 
+
+永远不要忘记你的家人有多爱你。
+
 ##### 2018-06-10
+
+Happiness is always around us if we put our hearts into life. 
+
+如果我们把我们的心真正投入到生活之中，那么幸福快乐就总是在我们身边。
+
 ##### 2018-06-11
+
+No one is indebted for others, while many people do not know how to cherish others. 
+
+没有谁对不起谁，只有谁不懂得珍惜谁。
+
 ##### 2018-06-12
+
+Everyone is a genius. But if you judge a fish by its ability to climb a tree, it will live its whole life believing that it is stupid. 
+
+每个人都是天才。但如果硬要以鱼儿爬树的本领，来评估它的能力，它这辈子都会觉得自己是条蠢鱼。
+
 ##### 2018-06-13
+
+We are here to put a dent in the universe. 
+
+活着就是为了改变世界。
+
 ##### 2018-06-14
+
+With great power there must come great responsibility. 
+
+有多大能力就会有多大责任。
+
 ##### 2018-06-15
+
+There is no solace above or below. Only us... Small, solitary, battling one another. I pray to myself, for myself. 
+
+天堂地狱都没法给你慰藉，只有我们自己：渺小，孤独，奋斗，与彼此抗争。我向自己祈祷，为自己祈祷。
+
 ##### 2018-06-16
+
+I am only brave when I have to be. Being brave does not mean you go looking for trouble. 
+
+我只是在必要的时候才会勇敢，勇敢并不代表你要到处闯祸。 &nbsp;
+
 ##### 2018-06-17
+
+My father is my hero, all throughout my life. 
+
+我的父亲就是我的英雄，从始至终。
+
 ##### 2018-06-18
+
+If you see something wrong happening in the world, you can either do nothing, or you can do something. 
+
+如果你看到这个世界出了问题，你要么别插手，要么去改变她。
+
 ##### 2018-06-19
+
+Not everything that counts can be counted, and not everything that's counted truly counts. 
+
+不是所有有价值的事物都可以被计算，也不是所有可计算的事物都值得去计算。
+
 ##### 2018-06-20
+
+A pearl is a temple built by pain around a grain of sand. 
+
+一粒珍珠，是痛苦围绕着一粒沙子所建造起来的庙宇。 
+
 ##### 2018-06-21
+
+I will send you all my love everyday in a letter sealed with a kiss. 
+
+我将每天把我的爱情，装进以吻封缄的信封里送给你。
+
 ##### 2018-06-22
+
+If you don't go for a walk, you'll think this is the world. 
+
+如果你不出去走走，你就会以为这就是全世界。
+
 ##### 2018-06-23
+
 ##### 2018-06-24
+
+I have found it worth living, and would gladly live it again if the chance were offered me. 
+
+我发现人是值得活的。若再给我一次生命，我将欣然接受这难得的赐予。
+
 ##### 2018-06-25
+
+No one is born hating another person because of the color of his skin. They can be taught to love, for love comes more naturally to the human heart. 
+
+没有人生来就因为肤色去憎恨别人。每个人都可以学会去爱，因为爱自在人心。
+
 ##### 2018-06-26
+
+If you missed the train I'm on, you will know that I am gone, you can hear the whistle blow a hundred miles. 
+
+如果你错过我坐的这趟火车，你就该明白我已离去，你可以听见一百里外飘来的汽笛声。
+
 ##### 2018-06-27
 ##### 2018-06-28
 ##### 2018-06-29
