@@ -335,107 +335,617 @@ If you want love, then this is it. This is real life. It's not perfect but it's 
 如果你想要爱情，这就是爱。现实生活就是如此，它不完美，但千真万确。
 
 ##### 2018-02-25
+
+It doesn't matter if you win by an inch or a mile. Winning's winning. 
+
+不管你赢了一寸还是一里，赢了就是赢了。
+
 ##### 2018-02-26
+
+Making a million friends is not a miracle. The miracle is to make  a friend who will stand by you when millions are against you. 
+
+交许许多多的朋友不是什么奇迹，真正的奇迹是当所有人都弃你而去的时候，还有一个朋友坚定的站在你这一边。
+
 ##### 2018-02-27
+
+Promises are often like the butterfly, which disappear after beautiful hover. 
+
+承诺常常很像蝴蝶，美丽的盘旋后就不见了。
+
 ##### 2018-02-28
+
+Fading is true while flowering is past. 
+
+凋谢是真实的，盛开只是一种过去。
+
 ##### 2018-03-01
+
+Some things are not  to see to insist, but insisted the will sees hope. 
+
+有些事情不是看到希望才去坚持，而是坚持了才会看到希望。
+
 ##### 2018-03-02
+
+Home is not where you live but where they understand you. 
+
+栖身之所不一定是家，有人懂你之处才是家。
+
 ##### 2018-03-03
+
+True friends will always find a way to help you. Fake friends will always find an excuse.  
+
+真心朋友总会找机会帮你，假意朋友总会找借口不帮。 
+
 ##### 2018-03-04
+
+I don't let myself down, because I have met you in my most gorgeous age. 
+
+能够在最美的时光和你相遇，才算没有辜负自己。
+
 ##### 2018-03-05
+
+Don't be afraid of the darkness. Don't be afraid to chase your dreams. Don't be afraid to be yourself. Follow your own path. 
+
+不要害怕黑暗，不要害怕追寻自己的梦想，不要害怕做与众不同的自己，走你自己的路。
+
 ##### 2018-03-06
+
+True love is not the temporary likeness, and I know it's the feeling—meeting you is hard and it will be a pity if I miss you. 
+
+真正的爱情不是一时好感，而是我知道遇到你不容易，错过了会很可惜。 
+
 ##### 2018-03-07
+
+It takes a great deal of bravery to stand up to your enemies, but a great deal more to stand up to your friends. 
+
+面对敌人需要勇气，但敢于直面朋友，需要更大的勇气。
+
 ##### 2018-03-08
+
+Falling in love with yourself first doesn’t make you vain or selfish, it makes you indestructible.  
+
+先爱自己不会让你变得无用或自私，它会让你无坚不摧。
+
 ##### 2018-03-09
+
+Love is putting someone else's needs before yours. 
+
+爱，就是把那个人的需要，看得比自己还重要。
+
 ##### 2018-03-10
+
+Water can carve its way, even through stone. And when trapped, water makes a new path. 
+
+水滴能穿石，即便困于一隅，也能另辟蹊径。
+
 ##### 2018-03-11
+
+A real friend is one who walks in when the rest of the world walks out. 
+
+真正的朋友是‘全世界与我为敌，他与全世界为敌’。
+
 ##### 2018-03-12
+
+Life is not always what we want it to be. We fight. We cry. And sometimes, we give up. But there is always hope in our heart. 
+
+生活有时不尽如人意。我们挣扎、哭泣，有时甚至放弃。但内心始终充满希望。
+
 ##### 2018-03-13
+
+I know someone in the world is waiting for me, although I've no idea of who he is. But I feel happy every day for this. 
+
+我知道这世上有人在等我，尽管我不知道我在等谁。但是因为这样，我每天都非常快乐。
+
 ##### 2018-03-14
+
+Every soil,where he is well,is to a valiant man his natural country. 
+
+勇敢的人随遇而安, 所到之处都是故乡。
+
 ##### 2018-03-15
+
+Look up at the stars, not down at your feet. 
+
+请仰望星空，而不要俯视脚下。
+
 ##### 2018-03-16
+
+Sometimes people don't need advice, they just need someone to listen and care. 
+
+有时候人们需要的不是建议，而是能有一个人来倾听和关心自己。
+
 ##### 2018-03-17
+
+Don't push your friends into your stuff, let them find it and like it if they want to. 
+
+不要强迫你的朋友尝试去爱你所爱的，除非他们自已愿意。
+
 ##### 2018-03-18
+
+nbsp;If you truly take care of your heart, you will be amazed at how much girls start lining up at your front door. 
+
+如果你真的照顾好自己的心，你会惊讶的发现，不知有多少那样的姑娘在你门前排长队。
+
 ##### 2018-03-19
+
+We used to look up at the sky and wonder at our place in the stars, now we just look down and worry about our place in the dirt. 
+
+我们曾经仰望星空，思考我们在宇宙中的位置，而现在我们只会低着头，担心如何在这片土地上活下去。
+
 ##### 2018-03-20
+
+We take a minute to have a crush on someone but a lifetime to forget someone. 
+
+我们会用一分钟的时间去迷恋一个人却用一辈子的时间去忘记一个人。
+
 ##### 2018-03-21
+
+Destiny is something we've invented because we can't stand the fact that everything that happens is accidental. 
+
+所谓命运不过是托辞，因为我们无法忍受所有事情发生都是偶然的事实。
+
 ##### 2018-03-22
+
+Don't walk in front of me, I may not follow. Don't walk behind me, I may not lead.  Walk beside me, just be my friend. 
+
+不要走在我前面，我可能追不上你 ；不要走在我后面，我可能不会引路；走在我旁边，做我的朋友就好。
+
 ##### 2018-03-23
+
+It is possible for ordinary people to choose to be extraordinary.  
+
+平凡人也能够选择做到不平凡。
+
 ##### 2018-03-24
+
+It is only with the heart that one can see rightly. What's essential is invisible to the eyes.&nbsp; 
+
+一个人只有用心去看，才能看到真实。事情的真相只用眼睛是看不见的。
+
 ##### 2018-03-25
+
+There will always be prettier and uglier people than you. Accept it and move on. 
+
+在这个世界上，多得是比你丑和比你美的人。所以，不必纠结太多，勇往前行。
+
 ##### 2018-03-26
+
+I don't know if we each have a destiny, or if we're all just floating around accident alike on a breeze. 
+
+我不懂，是我们有着各自不同的命运，还是，我们只不过都是在风中，茫然飘荡。
+
 ##### 2018-03-27
+
+nbsp;We laughed and kept saying 'see u soon', but inside we both knew we'd never see each other again. 
+
+我们笑着说再见，却深知再见遥遥无期。
+
 ##### 2018-03-28
+
+Be kind, for everyone is fighting a hard battle. And if you really wanna see what people are, all you have to do is look. 
+
+善良一点，因为大家的一生都不容易。如果你想真正了解他人，你需要用心去看。
+
 ##### 2018-03-29
+
+Things that are hard to say, are usually the most important. 
+
+最重要的事往往最难说出口。
+
 ##### 2018-03-30
+
+Sometimes, the silence seemed to connect us in a way that words never could. 
+
+有时候沉默对我们而言胜过千言万语。
+
 ##### 2018-03-31
+
+Save some time to be lazy, it's good for you.  
+
+偶尔赖赖床，没什么不好。
+
 ##### 2018-04-01
+
+Never lie to someone who trust you. Never trust someone who lies to you. 
+
+不要欺骗任何相信你的人，不要相信任何欺骗你的人。
+
 ##### 2018-04-02
+
+It is not crowded on the way up. It is crowded where many people choose to stay within the comfort zone.&nbsp; 
+
+向上的路，并不拥挤。拥挤是因为，大部分人选择了安逸。
+
 ##### 2018-04-03
+
+Many people live a tangled life, for they want to gain others' recognition, but unable to polish themselves peacefully. 
+
+很多人之所以活得纠结，是因为既想得到别人的认可，却又无法静下心来提升自己！
+
 ##### 2018-04-04
+
+Love is the power to see similarity in the dissimilar. 
+
+在差异中寻求彼此的共同点,这就是爱。
+
 ##### 2018-04-05
+
+Remember me before the memory of the love disappears. 
+
+在爱的记忆消失以前，请记住我。
+
 ##### 2018-04-06
+
+Success is never final, failure is never fatal. It's courage that counts. 
+
+成功不是终点，失败也并非末日，最重要的是继续前进的勇气。
+
 ##### 2018-04-07
+
+Do not look back and grieve over the past, for it’s gone. Live in the present, and make it so beautiful that it will be worth remembering. 
+
+耽溺回忆不如活在当下，让此刻成为未来荣耀之日。
+
 ##### 2018-04-08
+
+The more you fear to change and lose, the more likely you  will lose it without changing yourself. 
+
+你越是害怕去改变和失去，就越容易因不思进取而一无所有。
+
 ##### 2018-04-09
+
+When I saw you I fell in love. And you smiled because you knew. 
+
+看到你的那一刻，我爱上了你。你微笑，因为你知道。
+
 ##### 2018-04-10
+
+The minute you think of giving up, think of the reason why you held on so long.  
+
+在你想要放弃的那一刻，想想为什么当初坚持走到了这里。
+
 ##### 2018-04-11
+
+In music one must think with the heart and feel with the brains. 
+
+音乐要用心灵去听， 用头脑去感觉。
+
 ##### 2018-04-12
+
+Sometimes there is no next time, no time-outs, no second chances; sometimes it's now or never.  
+
+有时候，真的没有下一次，没有暂停继续，没有机会重来。有时候，错过了就永远没机会了。
+
 ##### 2018-04-13
+
+The furthest distance in the world is not between life and death. But when I stand in front of you, yet you don't know that I love you. 
+
+世界上最遥远的距离不是生与死，而是我就站在你面前，你却不知道我爱你。
+
 ##### 2018-04-14
+
+The more we love our friends, the less we flatter them. 
+
+对朋友爱得越深, 奉承得就越少。
+
 ##### 2018-04-15
+
+There's a kind of poverty called short-sightedness. 
+
+有一种“贫穷”叫短视。
+
 ##### 2018-04-16
+
+Time is a self proclaimed quack which can cure all diseases. 
+
+时间只是一个自称能包治百病的庸医。
+
 ##### 2018-04-17
+
+True victory was lasting peace, not war. 
+
+真正的胜利是持久的和平，而不是战争。
+
 ##### 2018-04-18
+
+The business of life is the acquisition of memories. In the end that's all there is. 
+
+人生就是不断收集回忆的过程，最终能陪伴我们的，也只有回忆了。
+
 ##### 2018-04-19
+
+Love is when you sit beside someone doing nothing yet you feel perfectly happy. 
+
+爱就是当你坐在他身边，哪怕什么都不做，也会感觉很开心。
+
 ##### 2018-04-20
+
+Only the brave man know how to tolerant. Coward never tolerant, it is not his nature. 
+
+只有勇敢的人才懂得如何宽容；懦夫绝不会宽容，这不是他的本性。
+
 ##### 2018-04-21
+
+Spring breeze miles, less than to meet you; Clear blue skies, not as good as you are in my heart.  
+
+春风十里，不及相遇有你； 晴空万里，不及心中有你。
+
 ##### 2018-04-22
+
+Things have a way of working out when you least expect it. Never give it up.  
+
+事情总是在你最不抱期望的时候得到解决，所以，永远不要放弃。
+
 ##### 2018-04-23
+
+Love means never having to say you’re sorry. 
+
+爱意味着永远不必说抱歉。
+
 ##### 2018-04-24
+
+It is not our abilities that show what we truly are, it is our choices. 
+
+让我们成为什么样的人，并不是我们的能力，而是我们的选择。
+
 ##### 2018-04-25
+
+Here comes a point when a reasonable man will swallow his pride and admit that he's made a terrible mistake. 
+
+懂道理的人，终会有放下自尊、坦承他犯下严重错误的时刻。
+
 ##### 2018-04-26
+
+If life is divided by two,the former is "no hesitation" and the latter is "no regret". 
+
+若将人生一分为二，前半段叫做 “不犹豫”，后半段叫做 “不后悔”。 
+
 ##### 2018-04-27
+
+The night opens the flowers in secret and allows the day to get thanks. 
+
+黑夜默默地绽放花儿，把赞美留给白昼。
+
 ##### 2018-04-28
+
+We are made to&nbsp;persist. That's how we find out who we are.&nbsp; 
+
+我们生来就是为了坚持，这样我们才能明白自己是谁。
+
 ##### 2018-04-29
+
+It's important to be with someone who gives you comfort, because love fades, but companionship stays. 
+
+重要的是，要选择一个让自己自在的人，因为两个人可能不再缠绵悱恻，却会相守一生。
+
 ##### 2018-04-30
+
+When you choose to be a sunny, happy person, a rainstorm becomes just another excuse to dance. 
+
+一旦选择做一个阳光，快乐的人，那风雨也只会是让你起舞的理由。
+
 ##### 2018-05-01
+
+Nothing is to be got without pains but poverty. 
+
+世上唯有贫穷可以不劳而获。
+
 ##### 2018-05-02
+
+Don’t be concerned with the distance of the journey. Every new step provides a new view; every new destination creates new joy.  
+
+怕什么路途遥远。走一步有一步的风景，进一步有一步的欢喜。
+
 ##### 2018-05-03
+
+God is always playing tricks on people, arranging them to meet but then to separate. 
+
+老天总是捉弄人，安排了相遇，却又策划了分离。
+
 ##### 2018-05-04
+
+Life isn’t always perfect. Life isn’t always easy. Life doesn’t always make sense. But that’s the beauty of life. 
+
+生活不总是完美无缺，轻而易举或者合情合理。但这就是生活的美好之所在。
+
 ##### 2018-05-05
+
+Tears are words from the heart that can't be spoken.  
+
+眼泪是来自心底却说不出口的话。
+
 ##### 2018-05-06
+
+You are not ordinary, you are born to stand out. 
+
+你天生与众不同,注定不会被淹没在人群中。
+
 ##### 2018-05-07
+
+We are all in the gutter, but some of us are looking at the stars. 
+
+身在井隅，心向璀璨。
+
 ##### 2018-05-08
+
+Courage is the ladder on which all the other virtues mount. 
+
+勇气是一切美德攀登的阶梯。
+
 ##### 2018-05-09
+
+The longest way must have its close;the gloomiest night will wear on to a morning.  
+
+最长的路也有尽头，最黑暗的夜晚也会迎接清晨。
+
 ##### 2018-05-10
+
+It is no use going back to yesterday, because I was a different person then. 
+
+回到昨天毫无用处，因为今天的我和过去有所不同。
+
 ##### 2018-05-11
+
+Time can heal a broken heart, but it can also break a waiting heart. 
+
+时间可以治愈一颗受伤的心，同样也可以撕裂一颗等待的心。
+
 ##### 2018-05-12
+
+As long as we have memories, yesterday remains. As long as we have hopes, tomorrow awaits. 
+
+只要我们还有回忆，昨日仍在。只要我们还有希望，明日尚待。
+
 ##### 2018-05-13
+
+Knowledge is a city to the building of which every human being brought  a stone.  
+
+知识是一座城堡，每个人都应为它增砖添瓦。
+
 ##### 2018-05-14
+
+A strong man will struggle with the storms of fate. 
+
+强者能同命运的风暴抗争。
+
 ##### 2018-05-15
+
+A man is not old as long as he is seeking something. A man is not old until regrets take the place of dreams.  
+
+只要一个人还有追求，他就没有老。直到后悔取代了梦想，一个人才算老。 
+
 ##### 2018-05-16
+
+When you feel like hope is gone, look inside you and search your soul. You will find a hero lies in you.  
+
+当你感觉希望不在的时候，看一下自己的内心世界，探寻一下自己的灵魂，你会在你心中找到一个英雄。
+
 ##### 2018-05-17
+
+Life has taught us that love does not consist in gazing at each other but in looking outward together in the same direction. 
+
+爱不是从相互凝视之中获得的，倒是可以由同朝一个方向眺望而产生，这是生活给予我们的教训。
+
 ##### 2018-05-18
+
+Maybe God wants us to meet a few wrong people before meeting the right one, so that when we finally meet the person, we will know how to be grateful.  
+
+在遇到梦中人之前，上天也许会安排我们先遇到别的人，在我们终于遇见心仪的人时，便应当心存感激。 
+
 ##### 2018-05-19
+
+What seems to us as bitter trials are often blessings in disguise. 
+
+我们看起来似乎痛苦的试炼，常常是伪装起来的好运。
+
 ##### 2018-05-20
+
+Love is the only thing that holds the dark at bay. 
+
+唯有爱可以把黑暗囚在波港湾里。
+
 ##### 2018-05-21
+
+I am not afraid of tomorrow for I have seen yesterday and love today.  
+
+我不害怕明天，因为我经历过昨天，又热爱今天。
+
 ##### 2018-05-22
+
+If I had eight hours to chop down a tree, I would spend six hours sharpening my ax. 
+
+如果我有八小时砍倒一棵树，我会拿六小时来磨斧头。
+
 ##### 2018-05-23
+
+The stars change, but the mind remains the same. 
+
+繁星纵变，但智慧永恒。
+
 ##### 2018-05-24
+
+A friend is one of the nicest things you can have, and one of the best things you can be. 
+
+拥有朋友是最美好的一件事，成为别人的朋友是最美妙的一件事。
+
 ##### 2018-05-25
+
+Life itself is the most wonderful fairy tale. 
+
+生活本身就是最美妙的童话故事。
+
 ##### 2018-05-26
+
+Only those who capture the moment are real. 
+
+把握当下才是真。
+
 ##### 2018-05-27
+
+When you want something, all the universe conspires in helping you to achieve it. 
+
+当你想做成一件事情的时候，全宇宙都会帮助你得到它。
+
 ##### 2018-05-28
+
+You cannot do it-that is the biggest lie on earth. 
+
+世界上最大的谎言就是你不行。
+
 ##### 2018-05-29
+
+The meaning of life is not simply to exist, to survive, but to move ahead, to go up, to achieve, to conquer. 
+
+生命的意义不仅在于简单的存在与活着，而是去前行、进步、获取和征服。
+
 ##### 2018-05-30
+
+Success does not consist in never  making mistakes but in never making the same one a second time. 
+
+成功并不在于从不犯错，而在于不重蹈覆辙。
+
 ##### 2018-05-31
+
+Only the deaf appreciate hearing, only the blind realize the manifold blessings that lie  in sight. 
+
+只有聋子才珍惜听力，只有盲人才能感受到得见光明的喜悦。
+
 ##### 2018-06-01
+
+Childhood is the golden field, the green river, and the colorful pebble beach. 
+
+童年是金色的田野，是青青的小河，是五彩斑斓的卵石滩。
+
 ##### 2018-06-02
+
+Truly, life smells like an onion: You peel it off one layer at a time, and sometimes you weep. 
+
+其实，生活就像洋葱，一片一片剥下去，总有一片让你流泪。
+
 ##### 2018-06-03
+
+There are no easy answers, there is only living through the questions. 
+
+生活从来没有容易的答案，只有去克服重重问题。
+
 ##### 2018-06-04
+
+The world always makes way for the dreamer. 
+
+世界总为梦想者让路。
+
 ##### 2018-06-05
+
+If I should meet thee, after long years. How should I greet thee, with silence and tears. 
+
+若我会见到你，事隔经年。我该如何致意，以眼泪，以沉默。
+
 ##### 2018-06-06
+
+It does not matter how slowly you go as long as you do not stop. 
+
+走的慢不重要，重要的是你不停止。
+
 ##### 2018-06-07
 ##### 2018-06-08
 ##### 2018-06-09
@@ -665,10 +1175,14 @@ Be an especially simple person, do not expect good luck coming suddenly, manage 
 
 做一个特别简单的人，不期待突如其来的好运，经营好自己，珍惜眼前的时光！
 
-
-
 ##### 2018-08-23
 
 There are only two ways to live your life. One is as though nothing is a miracle. The other is as though everything is a miracle. 
 
 生活有两种方式：一种是没有奇迹发生；另一种则是到处是奇迹。
+
+##### 2018-08-26
+
+What really makes you backward is not the difficulty in front, but the way back. 
+
+真正让你后退的，不是前面的困难，而是后面的退路。
