@@ -1299,3 +1299,9 @@ There are only two ways to live your life. One is as though nothing is a miracle
 What really makes you backward is not the difficulty in front, but the way back. 
 
 真正让你后退的，不是前面的困难，而是后面的退路。
+
+##### 2018-08-27
+
+You will always be able to make more money, but you cannot make more time. 
+
+你可以赚取很多的钱，但是你不能赢得更多的时间。
