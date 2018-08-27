@@ -1,5 +1,6 @@
 # Every Sentence
 
+
 ### 2018-01
 
 ##### 2018-01-01
@@ -358,6 +359,8 @@ Fading is true while flowering is past.
 
 凋谢是真实的，盛开只是一种过去。
 
+### 2018-03
+
 ##### 2018-03-01
 
 Some things are not  to see to insist, but insisted the will sees hope. 
@@ -544,6 +547,8 @@ Save some time to be lazy, it's good for you.
 
 偶尔赖赖床，没什么不好。
 
+### 2018-04
+
 ##### 2018-04-01
 
 Never lie to someone who trust you. Never trust someone who lies to you. 
@@ -723,6 +728,8 @@ It's important to be with someone who gives you comfort, because love fades, but
 When you choose to be a sunny, happy person, a rainstorm becomes just another excuse to dance. 
 
 一旦选择做一个阳光，快乐的人，那风雨也只会是让你起舞的理由。
+
+### 2018-05
 
 ##### 2018-05-01
 
@@ -909,6 +916,8 @@ Success does not consist in never  making mistakes but in never making the same 
 Only the deaf appreciate hearing, only the blind realize the manifold blessings that lie  in sight. 
 
 只有聋子才珍惜听力，只有盲人才能感受到得见光明的喜悦。
+
+### 2018-06
 
 ##### 2018-06-01
 
@@ -1265,6 +1274,10 @@ But know this: the ones that love us never really leave us. And you can always f
 Aspire to inspire until I expire. 
 生命不息，奋斗不止。
 
+##### 2018-08-20
+
+##### 2018-08-21
+
 ##### 2018-08-22
 
 Be an especially simple person, do not expect good luck coming suddenly, manage yourself well and cherish time at the moment. 
@@ -1276,6 +1289,10 @@ Be an especially simple person, do not expect good luck coming suddenly, manage 
 There are only two ways to live your life. One is as though nothing is a miracle. The other is as though everything is a miracle. 
 
 生活有两种方式：一种是没有奇迹发生；另一种则是到处是奇迹。
+
+##### 2018-08-24
+
+##### 2018-08-25
 
 ##### 2018-08-26
 
