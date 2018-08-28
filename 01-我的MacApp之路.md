@@ -18,6 +18,10 @@ MacOS窗口切换工具。参考资料：[少数派](https://sspai.com/post/3246
 
 它的使命是让你**专注**于做一件事情，除了当前激活的窗口以外，其他的都被黑色背景图所遮盖 ，都看不见 。
 
+#### [Bartender](https://www.macbartender.com/)
+
+MacOS最好的菜单栏图标管理工具。
+
 #### [Vanilla](https://matthewpalmer.net/vanilla/)
 
 它是菜单栏图标管理工具，是`Bartender 3`的免费代替品，隐藏没必要的图标，保持状态栏简洁。
@@ -33,10 +37,6 @@ MacOS最强大的防止休眠工具，它允许你设置保持屏幕常亮的时
 #### [CheatSheet](https://www.mediaatelier.com/CheatSheet/)
 
 MacOS的一款非常不错的、帮助你快速查看当前App的快捷键列表。
-
-#### [TripMode](https://www.tripmode.ch/)
-
-许多人出差办公，都会用手机的移动流量作为Mac的热点，但如何控制好流量输出是个问题。MacOS的热点流量控制器，它在每次连上手机热点后，都会自动开启流量管控状态。 
 
 #### [Backgrounds](https://itunes.apple.com/cn/app/backgrounds/id808501572?mt=12&ign-mpt=uo%3D8)
 
@@ -66,15 +66,17 @@ Mac 上最流行的解压软件，免费开源。
 
 MacOS文件隐藏工具 ，提供了非常方便的隐藏方式，将文件拖入 Hider 操作区即可实现，同时还提供了快速显示隐藏文件的开关、私密图片文件夹管理等功能。
 
-#### [Tuxera NTFS](https://www.tuxera.com/products/tuxera-ntfs-for-mac/)
-
-实现苹果Mac OS X系统读写Microsoft Windows NTFS文件系统，在硬盘、U盘等外接设备中进行全面访问、删除、修改等相关操作。
-
 #### [Mounty](http://enjoygineering.com/mounty/)
 
 NTFS磁盘格式的读写工具，免费。
 
+#### [MenuMate](https://itunes.apple.com/cn/app/menumate/id518594271?mt=12)
 
+Menumate在任何桌面位置上显示任何程序的菜单栏。
+
+#### [BitBar](https://getbitbar.com/)
+
+Menubar插件管理工具。
 
 ### 效率类
 
@@ -92,6 +94,12 @@ MacOS上非常强大的触控板增强工具，以用来代替默认的系统操
 MacOS的自动化神器 Keyboard Maestro，以上的操作就**一键**完成。
 
 参考资料：[少数派链接](https://sspai.com/post/36442) | [AppSo链接](http://www.ifanr.com/app/796750)
+
+#### [Hazel](https://www.noodlesoft.com/)
+
+MacOS可以自动监控并整理文件夹的工具。
+
+参考资料：[少数派链接](https://sspai.com/post/35212)
 
 #### [PopClip](http://pilotmoon.com/popclip/)
 
@@ -166,17 +174,19 @@ MacOS上的Vim编辑器。
 
 #### [Scapple](https://www.literatureandlatte.com/scapple/overview)
 
-Scapple 是一款可以让你在 macOS 上头脑风暴并将其梳理的工具。在 Scapple 的画布中，文字、图片、乃至 PDF、DOC 等文档内容都可以拖放进 Scapple，随意摆放位置，再通过箭头建立从属关系。之后还可以将其输出为多种格式，一款不可多得的思维管理工具。
+Scapple 是一款可以让你在 MacOS 上头脑风暴并将其梳理的工具。在 Scapple 的画布中，文字、图片、乃至 PDF、DOC 等文档内容都可以拖放进 Scapple，随意摆放位置，再通过箭头建立从属关系。之后还可以将其输出为多种格式，一款不可多得的思维管理工具。
 
 ### 生活类
 
+#### [f.lux](https://justgetflux.com/)
+
+MacOS护眼软件。
+
 #### [IINA](https://lhc70000.github.io/iina/)
 
-Mac最流行的播放器工具。
+MacOS最流行的播放器工具。
 
 #### [GIF Brewery 3](http://gifbrewery.com/)
 
-Mac最流行的Gif录制工具。参考资料：[少数派](https://sspai.com/post/31706)
-
-
+MacOS最流行的Gif录制工具。参考资料：[少数派](https://sspai.com/post/31706)
 
