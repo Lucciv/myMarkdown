@@ -150,7 +150,7 @@ Push To Markdown Git:
 4. Group3：选整行，按`CTRL+K`创建成超链接，按`ArrowDown`键跳转下一行；
 5. 循环10次。
 
-## HTML+CSS的语法模板
+## 07-HTML+CSS的语法模板
 
 ### Tip
 
@@ -180,3 +180,14 @@ Push To Markdown Git:
 * `vvy` : `"+y` ;
 * `vvp` : `"+p"` ;
 
+
+
+## 08-重命名文件
+
+### 1.第一种方法：
+
+1. 选中若干文件/文件夹；
+2. `File` - `Move or Rename a File`；
+3. `\b([A-Za-z0-9]+)[!-~][0-9]{3,4}`；
+
+### 2.第二种方法：
