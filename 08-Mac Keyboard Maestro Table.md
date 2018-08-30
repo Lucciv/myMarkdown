@@ -152,35 +152,46 @@ Push To Markdown Git:
 
 ## 07-HTML+CSS的语法模板
 
-### Tip
-
-![](https://cdn.sspai.com/2017/05/31/5bd8fa3b48d513def7fb87497f36aee3.png?imageView2/2/w/1120/q/90/interlace/1/ignore-error/1)
-
 ### 模板写法：
 
-* background-color :  `ccbc` 
+* * [x] background-color :  `ccbc`  
+
   * `background-color: #%SystemClipboard%;`
-* font-size : `ccfc` 
+
+* * [x] font-size : `ccfc` 
+
   * `font-size: %|%px;color: #%SystemClipboard%;`
-* border : `ccbor` 
+
+* * [x] border : `ccbr` 
+
   * `border:%|%px solid #%SystemClipboard%;`
-* a : `cca`
+
+* * [x] a : `cca`
+
   * `<a href="#" target="_blank" class="D1">D2</a>` 
   * 字符串模板: 动词1：D1(类名)；动词2：D2(%|%)；
-* width height : `ccwh`
+
+* * [x] width height : `ccwh`
+
   *  `width: N1px;height: N2px;` 
   * 字符串模板: 动词1：N1；动词2：N2；
-* background : `ccbi`
+
+* * [x] background : `ccbi`
+
   * background: url(../images/%|%) no-repeat;
-* line-height : `cclh`
+
+* * [x] line-height : `cclh`
+
   * `height: N1px; line-height: N2px;`
   * 字符串模板: 动词1：N1；动词2：N2；
+
 * cclisth : HTML模板里的列表box html；
+
 * cclistc：HTML模板里的列表box css；
+
 * `vvy` : `"+y` ;
+
 * `vvp` : `"+p"` ;
-
-
 
 ## 08-重命名文件
 

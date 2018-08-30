@@ -1276,6 +1276,10 @@ Aspire to inspire until I expire.
 
 ##### 2018-08-20
 
+Make you tired of the mountain is not far away, but a grain of sand in my shoes. 
+
+使人疲惫的不是远方的高山，而是鞋里的一粒沙子。
+
 ##### 2018-08-21
 
 ##### 2018-08-22
@@ -1292,7 +1296,15 @@ There are only two ways to live your life. One is as though nothing is a miracle
 
 ##### 2018-08-24
 
+Don't let yourself get busy all day and end up doing nothing.  
+
+不要让自己一天忙忙碌碌，最终却碌碌无为。
+
 ##### 2018-08-25
+
+Why are you trying so hard to fit in when you were born to stand out?&nbsp; 
+
+如果你生来就与众不同，何苦非要融入这群乌合之众？
 
 ##### 2018-08-26
 
