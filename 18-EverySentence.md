@@ -1139,23 +1139,113 @@ The more you study, the more you will find yourself ignorant.
 学，然后知不足。
 
 ##### 2018-07-11
+
+Two roads diverged in a wood, and I took the one less traveled by, and that has made all the difference. 
+
+林子里有两条路，我选择了行人稀少的那一条，它改变了我的一生。
+
 ##### 2018-07-12
+
+We are twice armed if we fight with faith. 
+
+信念坚定，如虎添翼。
+
 ##### 2018-07-13
+
+Success is not final, failure is not fatal. It is the courage to continue that counts. 
+
+成功并不是终点，失败也不会致命，真正重要的是继续走下去的勇气。
+
 ##### 2018-07-14
+
+Thoreau said: most men lead lives of quiet desperation. 
+
+梭罗说：“大多数人都生活在平静的绝望中。”
+
 ##### 2018-07-15
+
+Positive people are lucky people, they can see the roses while others see only the thorns. 
+
+积极的人是幸运的人，当别人只看到刺的时候，他们却可以看到玫瑰。
+
 ##### 2018-07-16
+
+Memory is a kind of want to see, and forgetting is a form of relief. 
+
+记忆是一种相见的形式，忘却是一种解脱的方式。
+
 ##### 2018-07-17
+
+No matter what situation we face, no matter how contradictory our hearts are, we always have a choice. What kind of person we are depends on who we choose to be. 
+
+不管我们面对什么处境，不管我们的内心多么矛盾，我们总有选择。我们是什么样的人，取决于我们选择做什么样的人。
+
 ##### 2018-07-18
+
+An aim in life is the only fortune worth finding. Pursue your object, be it what it will, steadily and indefatigable. 
+
+人生的目标是唯一值得发现的财富。追求你的目标，无论它是什么，都将是稳定和不屈不挠的。
+
 ##### 2018-07-19
+
+Human life is like flowing water, only when it hits isles and reefs can it create beautiful waves. 
+
+人的生命，似洪水奔流，不遇岛屿和暗礁，难以激起美丽的浪花。
+
 ##### 2018-07-20
+
+There is nothing noble in being superior to some other man. The true nobility is in being superior to your previous self.  
+
+优于别人，并不高贵。真正的高贵应该是优于过去的自己。
+
 ##### 2018-07-21
+
+Life means progress, and progress means suffering. 
+
+生活意味着进步，进步意味着受苦。
+
 ##### 2018-07-22
+
+Nothing is impossible when you believe in yourself. 
+
+只要相信你自己，就没有什么不可能。
+
 ##### 2018-07-23
+
+Nobody sees a flower really, it is so small. We haven't time, and to see takes time - like to have a friend takes time. 
+
+没有人真正看过一朵花，花那么小。我们又没有时间，看花可是要花时间的，就像交朋友也要花时间。
+
 ##### 2018-07-24
+
+You can't fly then run, if you can't run then walk, if you can't walk then crawl, but whatever you do you have to keep moving forward. 
+
+如果你不能飞，那就跑；如果跑不动，那就走；实在走不了，那就爬。无论怎样，你都要勇往直前。
+
 ##### 2018-07-25
+
+With equal passion I have sought knowledge. I have wished to understand the hearts of men. I have wished to know why the stars shine.  
+
+我用同样的激情去寻求知识。我希望能理解人类的心灵，希望能够知道群星为何闪烁。
+
 ##### 2018-07-26
+
+I always knew looking back on the tears would make me laugh, but I never knew looking back on the laughs would make me cry. 
+
+我知道再回首时，那些眼泪想来可笑；却不知再回眸时，那些欢声笑语也能叫我潸然泪下。&nbsp; 
+
 ##### 2018-07-27
+
+Give me your best shot. I'm not gonna give up, I will never give in. 
+
+你最好给我狠狠的一击，但是我绝不会因此放弃，也绝不可能屈服。
+
 ##### 2018-07-28
+
+Some men see things as they are and say, why. I dream things that never were and say, why not. 
+
+有些人只能看到已有的事物，然后只会问为什么会这样？我梦想那些从来没有的事情，然后问为什么不那样？
+
 ##### 2018-07-29
 ##### 2018-07-30
 ##### 2018-07-31
@@ -1317,3 +1407,9 @@ What really makes you backward is not the difficulty in front, but the way back.
 You will always be able to make more money, but you cannot make more time. 
 
 你可以赚取很多的钱，但是你不能赢得更多的时间。
+
+##### 2018-09-03
+
+I cannot think of any need in childhood as strong as the need for a father's protection. 
+
+我想像不出，在孩提时代，还有什么需要会像渴求父亲保护一样强烈。
