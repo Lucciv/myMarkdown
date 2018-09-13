@@ -99,56 +99,7 @@ Push To Markdown Git:
 | CopyTodayES  |      1       | 复制**今天**的每一句 |
 | CopyBeforeES |      2       | 复制**以往**的每一句 |
 
-#### 1-复制**今天**的每一句的步骤（CopyTodayES）：
-* 打开Safari浏览器；X
-* 按`Command + L`跳转到地址栏；X
-* 输入每一句的`URL`；X
-* 输入`rq`并按`3`，进入今天的每一句`URL`；X
-* 保存页面；X
-* 打开`sublime text`；X
-* 打开每日一句`HTML File`；X
-* 按`CTRL+R`搜索；X
-* 输入`detail-content-en`；X
-* 按`Esc`**三**次；X
-* 按`w`两次；X
-* 按`v-f-<`；X
-* 复制；X
-* 切换到`Typora`窗口；X
-* 粘贴；X
-* 按`Backspace`删除`<`这个字符；X
-* 保存；X
-* 关闭`sublime text`；X
-* 删除页面文件。X
-#### 2-复制**以往**的每一句的步骤（CopyBeforeES）：
-* 按`Ctrl+L`选中当前行；X
-* 复制日期；X
-* 按`->`右箭头；X
-* 按`Enter`转行；X
-* 打开Safari浏览器；X
-* 输入每日一句链接；X
-* 跳转到地址栏：`Command + L`；X
-* 保存页面；X
-* 打开`sublime text`；X
-* 打开每日一句的页面文件；X
-* 搜索“`detail-content-en`；X
-* 按`Esc`**三**次；X
-* 按`w`两次；X
-* 按`v-f-<`；X
-* 复制；X
-* 切换到`Typora`窗口；X
-* 粘贴；X
-* 按`Backspace`删除`<`这个字符；X
-* 保存；X
-* 按下箭头并跳转；X
-* 循环。X
 
-#### Test
-
-1. `Repeat action`[Link](https://wiki.keyboardmaestro.com/action/Repeat)
-2. Group1：选整行；复制，切换到Chrome；
-3. Group2：输入每一句链接并打开，复制，切换到Typora；
-4. Group3：选整行，按`CTRL+K`创建成超链接，按`ArrowDown`键跳转下一行；
-5. 循环10次。
 
 ## 07-HTML+CSS的语法模板
 
