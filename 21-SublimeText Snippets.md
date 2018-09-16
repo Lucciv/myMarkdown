@@ -23,12 +23,18 @@
 | ccwo | C013-width100 and overflow | CSS | width: 100%;overflow: hidden; |
 | ccwb | C014-width100 | CSS | width: 100%; |
 | shai/scai | 001-HTML/CSS-gov_ImageLinkBox | HTML/CSS | Work Model - Image Link Box |
-| sh/sc | 002-HTML/CSS-gov_ | HTML/CSS | Work Model - |
+| shmore/scmore | 002-HTML/CSS-gov_MoreBox | HTML/CSS | Work Model - More Box |
 | shlist/sclist | 003-HTML/CSS-gov_ListBox | HTML/CSS | Work Model - List Box |
 | shtablist/sctablist | 004-HTML/CSS-gov_TabListBox | HTML/CSS | Work Model - Tab List Box |
-| shtitle/sctitle | 005-HTML/CSS-gov_TitleBox | HTML/CSS | Work Model - Title Box |
-| shtitlepic/sctitlepic | 006-HTML/CSS-gov_TitleBox_withPic | HTML/CSS | Work Model - Title Box with Pic |
-| sh/sc | 00-HTML/CSS-gov_ | HTML/CSS | Work Model - |
+| shdlist/scdlist | 005-HTML/CSS-gov_DoubleListBox | HTML/CSS | Work Model - Double List Box |
+| XXXXXXX<br />shdtablist/scdtablist | 006-HTML/CSS-gov_TabDoubleListBox | HTML/CSS | Work Model - Tab Double List Box |
+| shtitle/sctitle | 007-HTML/CSS-gov_TitleBox | HTML/CSS | Work Model - Title Box |
+| shtitlepic/sctitlepic | 008-HTML/CSS-gov_TitleBox_withPic | HTML/CSS | Work Model - Title Box with Pic |
+| shawm/scawm | M001-HTML/CSS-gov_AutoWebModel | HTML/CSS | Work Model - Auto Web Model |
+| shawl/scawl | M002-HTML/CSS-gov_AutoWidthFLeft | HTML/CSS | Work Model - Auto Width Float Left |
+| shawr/scawr | M003-HTML/CSS-gov_AutoWidthFRight | HTML/CSS | Work Model - Auto Width Float Right |
+| sh/sc | 00-HTML/CSS- | HTML/CSS | Work Model - |
+|  |  |  |  |
 |  |  |  |  |
 
 [TOC]
@@ -342,6 +348,36 @@ ${1:gov}_imgLinkBox img { display: block; margin: ${2:30}px auto; border: ${3:1}
 </snippet>
 ```
 
+### More Box
+
+#### Syntax_html
+
+```xml
+<snippet>
+	<content><![CDATA[
+<a href="#" target="_blank" class="${1:gov}_morebox">${2:更多}</a>
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<tabTrigger>shmore</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will trigger -->
+	<scope>text.html</scope>
+</snippet>
+```
+
+#### Syntax_css
+
+```xml
+<snippet>
+	<content><![CDATA[
+.${1:gov}_morebox { font-size: ${2:16}px; color: #${3:666}; position: absolute; top: ${4:10}px; right: ${5:10}px; }
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<tabTrigger>scmore</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will trigger -->
+	<scope>source.css</scope>
+</snippet>
+```
+
 ### List Box
 
 #### Syntax_html
@@ -456,6 +492,81 @@ ${1:gov}_imgLinkBox img { display: block; margin: ${2:30}px auto; border: ${3:1}
 </snippet>
 ```
 
+### Double List Box
+
+#### Syntax_html
+
+```xml
+<snippet>
+  <content><![CDATA[
+<!-- Gov Double List -->
+<div class="${1:gov}_double_list_box">
+  <ul class="${1:gov}_dlistbox fl">
+    <li>
+      ${2:<span class="${1:gov}_double_list_dot"></span>}
+      <a href="#" target="_blank">标题标题标题标题...</a>
+      ${3:<span class="${1:gov}_double_list_time">2017-09-09</span>}
+    </li>
+    <li>
+      ${2:<span class="${1:gov}_double_list_dot"></span>}
+      <a href="#" target="_blank">标题标题标题标题...</a>
+      ${3:<span class="${1:gov}_double_list_time">2017-09-09</span>}
+    </li>
+    <li>
+      ${2:<span class="${1:gov}_double_list_dot"></span>}
+      <a href="#" target="_blank">标题标题标题标题...</a>
+      ${3:<span class="${1:gov}_double_list_time">2017-09-09</span>}
+    </li>
+  </ul>
+  <ul class="${1:gov}_dlistbox fr">
+    <li>
+      ${2:<span class="${1:gov}_double_list_dot"></span>}
+      <a href="#" target="_blank">标题标题标题标题...</a>
+      ${3:<span class="${1:gov}_double_list_time">2017-09-09</span>}
+    </li>
+    <li>
+      ${2:<span class="${1:gov}_double_list_dot"></span>}
+      <a href="#" target="_blank">标题标题标题标题...</a>
+      ${3:<span class="${1:gov}_double_list_time">2017-09-09</span>}
+    </li>
+    <li>
+      ${2:<span class="${1:gov}_double_list_dot"></span>}
+      <a href="#" target="_blank">标题标题标题标题...</a>
+      ${3:<span class="${1:gov}_double_list_time">2017-09-09</span>}
+    </li>
+  </ul>
+</div>
+<!-- END Gov Double List -->
+]]></content>
+  <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+  <tabTrigger>shdlist</tabTrigger>
+  <!-- Optional: Set a scope to limit where the snippet will trigger -->
+  <scope>text.html</scope>
+</snippet>
+```
+
+#### Syntax_css
+
+```xml
+<snippet>
+	<content><![CDATA[
+/*== Double List Box ==*/
+.${1:gov}_double_list_box{width: 100%;overflow: hidden;}
+.${1:gov}_dlistbox { overflow: hidden; width: 48%; }
+.${1:gov}_dlistbox li { position: relative; padding-left: ${2:14}px; height: ${3:32}px; line-height: ${3:32}px; }
+.${1:gov}_double_list_dot { position: absolute; top: ${7:10}px; left: ${8:0}; display: block; width: ${4:5}px; height: ${4:5}px; ${5:background-color: #${6:000};} }
+.${1:gov}_double_list_time { position: absolute; top: 0; right: 0; }
+.${1:gov}_dlistbox li a{${9}}
+.${1:gov}_dlistbox li a:hover { ${10:text-decoration: underline;}${11:color:#${12:000};} }
+/*== END Double List Box ==*/
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<tabTrigger>scdlist</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will trigger -->
+	<scope>source.css</scope>
+</snippet>
+```
+
 ### Title Box
 
 #### Syntax_html
@@ -543,3 +654,116 @@ ${1:gov}_imgLinkBox img { display: block; margin: ${2:30}px auto; border: ${3:1}
 </snippet>
 ```
 
+### Auto Web Model
+
+#### Syntax_html
+
+```xml
+<snippet>
+  <content><![CDATA[
+<div class="${1:gov}_content">
+	<div class="${1:gov}_main" ${2:style="background-color: skyblue;"}>
+		${3:1}
+	</div>
+</div>
+]]></content>
+  <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+  <tabTrigger>shawm</tabTrigger>
+  <!-- Optional: Set a scope to limit where the snippet will trigger -->
+  <scope>text.html</scope>
+</snippet>
+```
+
+#### Syntax_css
+
+```xml
+<snippet>
+	<content><![CDATA[
+/*Index Content*/
+.${1:gov}_content { overflow: hidden; width: 100%; }
+.${1:gov}_main { overflow: hidden; ${3:min-}width: ${2:1100}px; ${4:margin: 0 ${5:50}px;} ${6:margin: 0 auto;} padding-top: ${7:30}px; }
+.${1:gov}_box { position: relative; overflow: hidden; width: 100%; z-index: -1; }
+/*END Index Content*/
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<tabTrigger>scawm</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will trigger -->
+	<scope>source.css</scope>
+</snippet>
+```
+
+### Auto Width Float Left
+
+#### Syntax_html
+
+```xml
+<snippet>
+  <content><![CDATA[
+<!-- self adaption -->
+<div class="${1:gov}_box wh${3:num}">
+	<div class="${1:gov}_${2:name}_leftbox fl"></div>
+	<div class="${1:gov}_${2:name}_rightbox"></div>
+</div>
+<!-- END self adaption -->
+]]></content>
+  <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+  <tabTrigger>shawl</tabTrigger>
+  <!-- Optional: Set a scope to limit where the snippet will trigger -->
+  <scope>text.html</scope>
+</snippet>
+```
+
+#### Syntax_css
+
+```xml
+<snippet>
+	<content><![CDATA[
+/*self adaption*/
+.${1:gov}_${2:name}_leftbox { width: ${3:300}px; ${6:background-color: #090;} }
+.${1:gov}_${2:name}_rightbox { position: absolute; top: 0; right: 0; left: ${4:300}px; ${5:background-color: #09f;} }
+/*END self adaption*/
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<tabTrigger>scawl</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will trigger -->
+	<scope>source.css</scope>
+</snippet>
+```
+
+### Auto Width Float Right
+
+#### Syntax_html
+
+```xml
+<snippet>
+	<content><![CDATA[
+/*self adaption*/
+.${1:gov}_${2:name}_leftbox { position: absolute; top: 0; left: 0; right: ${4:300}px; ${5:background-color: #09f;} }
+.${1:gov}_${2:name}_rightbox { width: ${3:300}px; ${6:background-color: #090;} }
+/*END self adaption*/
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<tabTrigger>scawr</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will trigger -->
+	<scope>source.css</scope>
+</snippet>
+```
+
+#### Syntax_css
+
+```xml
+<snippet>
+  <content><![CDATA[
+<!-- self adaption -->
+<div class="${1:gov}_box wh${3:num}">
+	<div class="${1:gov}_${2:name}_leftbox"></div>
+	<div class="${1:gov}_${2:name}_rightbox fr"></div>
+</div>
+<!-- END self adaption -->
+]]></content>
+  <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+  <tabTrigger>shawr</tabTrigger>
+  <!-- Optional: Set a scope to limit where the snippet will trigger -->
+  <scope>text.html</scope>
+</snippet>
+```
