@@ -27,7 +27,7 @@
 | shlist/sclist | 003-HTML/CSS-gov_ListBox | HTML/CSS | Work Model - List Box |
 | shtablist/sctablist | 004-HTML/CSS-gov_TabListBox | HTML/CSS | Work Model - Tab List Box |
 | shdlist/scdlist | 005-HTML/CSS-gov_DoubleListBox | HTML/CSS | Work Model - Double List Box |
-| XXXXXXX<br />shdtablist/scdtablist | 006-HTML/CSS-gov_TabDoubleListBox | HTML/CSS | Work Model - Tab Double List Box |
+| shtdlist/sctdlist | 006-HTML/CSS-gov_TabDoubleListBox | HTML/CSS | Work Model - Tab Double List Box |
 | shtitle/sctitle | 007-HTML/CSS-gov_TitleBox | HTML/CSS | Work Model - Title Box |
 | shtitlepic/sctitlepic | 008-HTML/CSS-gov_TitleBox_withPic | HTML/CSS | Work Model - Title Box with Pic |
 | shawm/scawm | M001-HTML/CSS-gov_AutoWebModel | HTML/CSS | Work Model - Auto Web Model |
@@ -562,6 +562,92 @@ ${1:gov}_imgLinkBox img { display: block; margin: ${2:30}px auto; border: ${3:1}
 ]]></content>
 	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
 	<tabTrigger>scdlist</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will trigger -->
+	<scope>source.css</scope>
+</snippet>
+```
+
+### Tab Double List Box
+
+#### Syntax_html
+
+```xml
+<snippet>
+  <content><![CDATA[
+<!-- Tab Double List Box -->
+<div class="${1:gov}_dtab_list">
+  <div class="${1:gov}_dtablistbox fl">
+    <div class="${1:gov}_dtablistline">
+      <a href="#" target="_blank">
+        ${2:<span class="${1:gov}_dtablistdot"></span>}
+        <span class="${1:gov}_dtablisttext">标题标题标题...</span>
+      </a>
+      ${3:<span class="${1:gov}_dtablisttime">2018-09-09</span>}
+    </div>
+    <div class="${1:gov}_dtablistline">
+      <a href="#" target="_blank">
+        ${2:<span class="${1:gov}_dtablistdot"></span>}
+        <span class="${1:gov}_dtablisttext">标题标题标题...</span>
+      </a>
+      ${3:<span class="${1:gov}_dtablisttime">2018-09-09</span>}
+    </div>
+    <div class="${1:gov}_dtablistline">
+      <a href="#" target="_blank">
+        ${2:<span class="${1:gov}_dtablistdot"></span>}
+        <span class="${1:gov}_dtablisttext">标题标题标题...</span>
+      </a>
+      ${3:<span class="${1:gov}_dtablisttime">2018-09-09</span>}
+    </div>
+  </div>
+  <div class="${1:gov}_dtablistbox fr">
+    <div class="${1:gov}_dtablistline">
+      <a href="#" target="_blank">
+        ${2:<span class="${1:gov}_dtablistdot"></span>}
+        <span class="${1:gov}_dtablisttext">标题标题标题...</span>
+      </a>
+      ${3:<span class="${1:gov}_dtablisttime">2018-09-09</span>}
+    </div>
+    <div class="${1:gov}_dtablistline">
+      <a href="#" target="_blank">
+        ${2:<span class="${1:gov}_dtablistdot"></span>}
+        <span class="${1:gov}_dtablisttext">标题标题标题...</span>
+      </a>
+      ${3:<span class="${1:gov}_dtablisttime">2018-09-09</span>}
+    </div>
+    <div class="${1:gov}_dtablistline">
+      <a href="#" target="_blank">
+        ${2:<span class="${1:gov}_dtablistdot"></span>}
+        <span class="${1:gov}_dtablisttext">标题标题标题...</span>
+      </a>
+      ${3:<span class="${1:gov}_dtablisttime">2018-09-09</span>}
+    </div>
+  </div>
+</div>
+<!-- END Tab Double List Box -->
+]]></content>
+  <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+  <tabTrigger>shtdlist</tabTrigger>
+  <!-- Optional: Set a scope to limit where the snippet will trigger -->
+  <scope>text.html</scope>
+</snippet>
+```
+
+#### Syntax_css
+
+```xml
+<snippet>
+	<content><![CDATA[
+/*Tab Double List Box*/
+.${1:gov}_dtab_list{ overflow: hidden; width: 100%; }
+.${1:gov}_dtablistbox { overflow: hidden; width: ${2:48}%; }
+.${1:gov}_dtablistline { position: relative; display: block; width: 100%; height: ${3:24}px; line-height: ${3:24}px; padding-left: ${4:26}px; }
+.${1:gov}_dtablistdot { position: absolute; top: ${7:12}px; left: ${8:14}px; display: block; width: ${5:3}px; height: ${5:3}px; background-color: #${6:666}; }
+.${1:gov}_dtablisttime, .${1:gov}_dtablisttext { ${9:font-size: ${10:12}px;} ${11:color: #${12:000};} }
+.${1:gov}_dtablisttext:hover { ${15:text-decoration: underline;} ${13:color: #${14:666};} }
+/*END Tab Double List Box*/
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<tabTrigger>sctdlist</tabTrigger>
 	<!-- Optional: Set a scope to limit where the snippet will trigger -->
 	<scope>source.css</scope>
 </snippet>
