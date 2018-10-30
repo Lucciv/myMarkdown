@@ -1053,6 +1053,10 @@ If you don't go for a walk, you'll think this is the world.
 
 ##### 2018-06-23
 
+You lost the people you love and you have to find a way to go on. Then let it go and say goodbye with a smile. Although it won't be easy. 
+
+失去深爱的人，我们仍要学会好好的生活。学着放手，微笑着道别，尽管这并不容易。
+
 ##### 2018-06-24
 
 I have found it worth living, and would gladly live it again if the chance were offered me. 
@@ -1072,9 +1076,28 @@ If you missed the train I'm on, you will know that I am gone, you can hear the w
 如果你错过我坐的这趟火车，你就该明白我已离去，你可以听见一百里外飘来的汽笛声。
 
 ##### 2018-06-27
+
+Doing what you like is freedom, liking what you do is happiness. 
+
+自由是做你自己喜欢的事，而幸福却是喜欢你自己做的事。
+
 ##### 2018-06-28
+
+You may lose faith with us, but never with yourself. 
+
+你也许会对我们失去信心，但永远不要对你自己失去信心。
+
 ##### 2018-06-29
+
+It's just a game, so go and play. 
+
+那只是一场比赛，重要的是永不低头。
+
 ##### 2018-06-30
+
+As long as we're running, as long as we don't stop, who knows what's going on ahead? 
+
+只要我们还在跑，只要我们始终不停下来，谁又知道前方会发生什么呢？
 
 ### 2018-07
 
@@ -1247,8 +1270,22 @@ Some men see things as they are and say, why. I dream things that never were and
 有些人只能看到已有的事物，然后只会问为什么会这样？我梦想那些从来没有的事情，然后问为什么不那样？
 
 ##### 2018-07-29
+
+It turns out I don't need a medal to tell me I'm a good guy. Because of that kid likes me. How bad can I be. 
+
+其实我不需要一个勋章开证明我是个好人，如果连那样的小女孩都喜欢我，我能坏到哪儿去呢？
+
 ##### 2018-07-30
+
+In me the tiger sniffes the rose, after the feast bursts the tear. 
+
+心如猛虎，细嗅蔷薇；盛宴过后，泪流满面。
+
 ##### 2018-07-31
+
+Why do we fall? So we can learn to pick ourselves up. 
+
+我们为什么会跌倒？因为这样才能学会站起来！
 
 ### 2018-08
 
@@ -1372,6 +1409,10 @@ Make you tired of the mountain is not far away, but a grain of sand in my shoes.
 
 ##### 2018-08-21
 
+The flowers are similar every year, but people are different from year to year. 
+
+年年岁岁花相似，岁岁年年人不同。
+
 ##### 2018-08-22
 
 Be an especially simple person, do not expect good luck coming suddenly, manage yourself well and cherish time at the moment. 
@@ -1392,7 +1433,7 @@ Don't let yourself get busy all day and end up doing nothing.
 
 ##### 2018-08-25
 
-Why are you trying so hard to fit in when you were born to stand out?&nbsp; 
+Why are you trying so hard to fit in when you were born to stand out?
 
 如果你生来就与众不同，何苦非要融入这群乌合之众？
 
@@ -1408,8 +1449,459 @@ You will always be able to make more money, but you cannot make more time.
 
 你可以赚取很多的钱，但是你不能赢得更多的时间。
 
+##### 2018-08-28
+
+Individual commitment to a group effort – that’s what makes a team  work, a company work, a society work, a civilization work. 
+
+个人对集体努力的承诺，它造就团队合作、公司运作、社会协作，文明工作。
+
+##### 2018-08-29
+
+Books are the mirrors of the soul. 
+
+书籍是灵魂的镜子。
+
+##### 2018-08-30
+
+Our lives are defined by opportunities, even the one we miss. 
+
+我们的生活是由机遇所界定的，甚至是那些我们错失的机遇。
+
+##### 2018-08-31
+
+If you are alone, why not seek the company of books? 
+
+找不到朋友时，为什么不翻翻书呢？
+
+### 2018-09
+
+##### 2018-09-01
+
+The rational and the irrational complement each other. Individually, they are far less powerful. 
+
+理性和非理性是互补的。两者分开的话，力量就会小很多。
+
+##### 2018-09-02
+
+Our deepest fear is that we are powerful beyond measure. 
+
+我们最深的恐惧是我们的力量无可估量。
+
 ##### 2018-09-03
 
 I cannot think of any need in childhood as strong as the need for a father's protection. 
 
 我想像不出，在孩提时代，还有什么需要会像渴求父亲保护一样强烈。
+
+##### 2018-09-04
+
+Having a calm smile to face with being disdained indicates kind of confidence. 
+
+被轻蔑的时候能平静一笑，这是一种自信。
+
+##### 2018-09-05
+
+For we are lovers of the beautiful,yet simple in our tastes; and we cultivate the mind without loss of manliness. 
+
+我们是美之爱好者，但我们的趣味是淡雅的；我们陶冶性灵，但我们也不让失却丈夫气。
+
+##### 2018-09-06
+
+One who frequently looks back can't go far. 
+
+一个频频回头的人，是走不了远路的。
+
+##### 2018-09-07
+
+One is always on a strange road, watching strange scenery and listening to strange music. Then one day, you will find that the things you try hard to forget are already gone. 
+
+一个人总要走陌生的路，看陌生的风景，听陌生的歌。总有一天，在某个不经意的瞬间，你会发现，曾经努力想要忘记的事情早已消逝。
+
+##### 2018-09-08
+
+I may not be able to change the past, but I can learn from it. 
+
+我也许不能改变过去，但我能从中学习。
+
+##### 2018-09-09
+
+It's an amazing feeling to realize how one person who was once just a stranger suddenly meant the world to you. 
+
+很奇妙的一种感觉是：曾经的陌生人，突然之间成为了你的整个世界。
+
+##### 2018-09-10
+
+The aim of education should be to convert the mind into living fountain, and not a reservoir. 
+
+教育的目的应是把人心转化为活的泉水，而不是贮水池。
+
+##### 2018-09-11
+
+The best of all ways to strengthen our days is to steal hours from the night. 
+
+延长白天最好的办法，就是从夜晚偷时间。
+
+##### 2018-09-12
+
+Time is but a river flowing from our past. 
+
+岁月不过是一条长河，从你我的过往穿流而过。
+
+##### 2018-09-13
+
+We are still kids but we are so in love, fighting against all odds. 
+
+我们虽然年少，但却如此相爱。让我们披荆斩棘，跨越所有障碍。
+
+##### 2018-09-14
+
+Anywhere I see suffering, that is where I want to be, doing what I can. 
+
+每一个遭受痛苦的地方就是我要去的地方，做任何我能做到的事。
+
+##### 2018-09-15
+
+A foreign language is a weapon in the struggle of life. 
+
+一门外语是人生之奋斗中的强大武器。
+
+##### 2018-09-16
+
+I never really noticed that I had to decide, to play someone's game or live my own life. 
+
+我从未真正意识到我该抉择的是：活在别人的剧本还是叙写自己的人生。
+
+##### 2018-09-17
+
+Count your age by friends, not years; Count your life by smiles, not tears. 
+
+以友情计岁月，而非年龄；以笑容量人生，而非泪水。
+
+##### 2018-09-18
+
+May you not be lonely but be able to enjoy being alone. 
+
+愿你不再孤单，并学会享受孤独。
+
+##### 2018-09-19
+
+As long as you can still grab a breath, you fight. 
+
+只要一息尚存，就不得不战。
+
+##### 2018-09-20
+
+Don't ever let somebody tell you you can't do something, not even me. 
+
+永远别让旁人说你成不了事，就算是我也不行。
+
+##### 2018-09-21
+
+You cannot live your life to please others. The choice must be yours. 
+
+你不能为取悦别人而活，你得有自己的选择。
+
+##### 2018-09-22
+
+It is the time you have wasted for your rose that makes your rose so important. 
+
+正因为你为你的玫瑰花费了时间，这才使你的玫瑰变得如此重要。
+
+##### 2018-09-23
+
+A friend in need is a friend indeed. 
+
+患难见真情。
+
+##### 2018-09-24
+
+The moon becomes round, which indicates the reunion of people. 
+
+月之圆，兆人之团圆。
+
+##### 2018-09-25
+
+Life is too short to miss out anything, try to take it slowly. 
+
+生命短暂，放慢脚步，别错过任何沿途的风景。
+
+##### 2018-09-26
+
+If at first you don't succeed, then dust yourself off and try again. 
+
+失败了没关系，重振旗鼓，从头再来。
+
+##### 2018-09-27
+
+With the right kind of coaching and determination you can accomplish anything. 
+
+正确的训练加上坚定的决心，你将攻无不克。
+
+##### 2018-09-28
+
+We all make choices, but in the end our choices make us. 
+
+我们都要做很多选择，最终这些选择创造了我们。
+
+##### 2018-09-29
+
+If your eyes are opened, you will see the things worth seeing. 
+
+如果你睁开眼睛，你会看到值得看的东西。
+
+##### 2018-09-30
+
+Some of us get dipped in flat, some in satin, some in gloss. But every once in a while you find someone who's iridescent, and when you do, nothing will ever compare. 
+
+有些人沦为平庸浅薄，金玉其外，败絮其中。可不经意间你会遇到一个彩虹般的人，从此以后，其他人不过是匆匆浮云。
+
+### 2018-10
+
+##### 2018-10-01
+
+A man has free choice to begin love, but not to end it. 
+
+一个人可以选择爱上谁，当他要结束爱情时，他是没有选择的。
+
+##### 2018-10-02
+
+There are more things in heaven and earth than you've ever dream of. 
+
+天地之大，比你所能梦想到的更多。
+
+##### 2018-10-03
+
+If you reveal your secrets to the wind, you should not blame the wind for revealing them to the trees. 
+
+不要把秘密传给风，风会传遍整个森林。
+
+##### 2018-10-04
+
+I would die for you. But I wouldn't live for you. 
+
+我愿意为你赴死，但不会指望你而活。
+
+##### 2018-10-05
+
+There are no easy answers, there's only living through the questions. 
+
+生活从来没有容易的答案，只有去克服重重问题。
+
+##### 2018-10-06
+
+I can't control their fear, only my own. 
+
+我不能掌控他人的恐惧，只能掌控自己的。
+
+##### 2018-10-07
+
+The longest day has an end. 
+
+最难过的日子也有尽头。
+
+##### 2018-10-08
+
+Sometimes it's hard to accept the truth because the lies sound so much better. 
+
+真相有时之所以难以被接受，是因为谎言听起来美好多了。
+
+##### 2018-10-09
+
+It does not do well to depend on dreams and forget to live, remember that. 
+
+记住：不要依赖梦想而忘记生活。
+
+##### 2018-10-10
+
+We laughed and kept saying see you soon, but inside we both knew we'd never see each other again. 
+
+我们笑着说再见，却深知再见遥遥无期。
+
+##### 2018-10-11
+
+Had I not seen the sun, I could have borne the shade. 
+
+我本可以忍受黑暗，如果我不曾见过太阳。
+
+##### 2018-10-12
+
+Sometimes it is the very people who no one imagines anything of who do the things that no one can imagine. 
+
+有时候正是人们以为的无用之人成就无人敢想之事。
+
+##### 2018-10-13
+
+To really understand a man, we must judge him in misfortune. 
+
+要真正了解一个人，需在不幸中考察他。
+
+##### 2018-10-14
+
+The supreme happiness of life is the conviction that we are loved. 
+
+生活中最大的幸福是坚信有人爱我们。
+
+##### 2018-10-15
+
+Happiness lies not in the mere possession of money, it lies in the joy of achievement, in the thrill of creative effort. 
+
+幸福不在于拥有金钱，而在于获得成就时的喜悦以及产生创造力的激情。
+
+##### 2018-10-16
+
+I have failed over and over and over again in my life. And that is why I succeed. 
+
+我的一生一次又一次失败过，而那正是我成功的原因。
+
+##### 2018-10-17
+
+Some of the most successful people in the world are the ones who've had the most failures. 
+
+世上最成功的人往往都是失败最多的人。
+
+##### 2018-10-18
+
+None is of freedom or of life deserving unless he daily conquers it anew. 
+
+只有每天再度战胜生活并夺取自由的人，才配享受生活和自由。
+
+##### 2018-10-19
+
+Towering genius disdains a beaten path. It seeks regions hitherto unexplored. 
+
+卓越的天才不屑走旁人走过的路，他寻找迄今未开拓的地区。
+
+##### 2018-10-20
+
+Strength alone knows conflict, weakness is below even defeat, and is born vanquished.  
+
+只有强者才懂得斗争；弱者甚至失败都不够资格，而是生来就是被征服的。
+
+##### 2018-10-21
+
+Made it, Ma! Top of the world!  
+
+好好去做吧，站在世界之巅!
+
+##### 2018-10-22
+
+Time goes by, there is no end, only the intersection. 
+
+时间一直走，没有尽头，只有路口。
+
+##### 2018-10-23
+
+Everyone you see exists together in a delicate balance. 
+
+世界上所有的生命都在微妙的平衡中生存。
+
+##### 2018-10-24
+
+But every once in a while you find someone who's iridescent, and when you do, nothing will compare. 
+
+世人万千种，浮云莫去求，斯人如彩虹，遇上方知有。
+
+##### 2018-10-25
+
+Life doesn't just happen to you; you receive everything in your life based on what you've given. 
+
+发生在你身上的一切均非偶然。你从生活中得到了什么，源于你给予了什么。
+
+##### 2018-10-26
+
+Night comes, is one of the most vulnerable, when the mind is also thinking of the most crazy time. In fact, a person is not alone miss when a person is really alone. 
+
+深夜来临的时候，是一个人心灵最脆弱的时候，也是思念最疯狂的时候。其实一个人并不孤单，想念一个人的时候才是真正的孤单。
+
+##### 2018-10-27
+
+Your mind is like this water, my friend, when it is agitated, it becomes difficult to see. But if you allow it to settle, the answer becomes clear. 
+
+你的思想就如同水，我的朋友，当水波摇曳时，很难看清，不过当它平静下来，答案就清澈见底了。
+
+##### 2018-10-28
+
+Our destiny offers not the cup of despair, but the chalice of opportunity. 
+
+命运给予我们的不是失望之酒，而是机会之杯。
+
+##### 2018-10-29
+
+Fear can hold you prisoner. Hope can set you free. A strong man can save himself. A great man can save another. 
+
+懦怯囚禁人的灵魂，希望可以解救人的自由。强者自救，圣者渡人。
+
+##### 2018-10-30
+
+The defects and faults of the mind are like wounds in the body. After all imaginable care has been taken to heal them up, still there will be a scar left behind. 
+
+思想上的缺陷和弱点正如身体上的创伤，就算用尽一切办法将其治愈，仍然会留下疤痕。
+
+##### 2018-10-31
+
+### 2018-11
+
+##### 2018-11-01
+##### 2018-11-02
+##### 2018-11-03
+##### 2018-11-04
+##### 2018-11-05
+##### 2018-11-06
+##### 2018-11-07
+##### 2018-11-08
+##### 2018-11-09
+##### 2018-11-10
+##### 2018-11-11
+##### 2018-11-12
+##### 2018-11-13
+##### 2018-11-14
+##### 2018-11-15
+##### 2018-11-16
+##### 2018-11-17
+##### 2018-11-18
+##### 2018-11-19
+##### 2018-11-20
+##### 2018-11-21
+##### 2018-11-22
+##### 2018-11-23
+##### 2018-11-24
+##### 2018-11-25
+##### 2018-11-26
+##### 2018-11-27
+##### 2018-11-28
+##### 2018-11-29
+##### 2018-11-30
+
+### 2018-12
+
+##### 2018-12-01
+##### 2018-12-02
+##### 2018-12-03
+##### 2018-12-04
+##### 2018-12-05
+##### 2018-12-06
+##### 2018-12-07
+##### 2018-12-08
+##### 2018-12-09
+##### 2018-12-10
+##### 2018-12-11
+##### 2018-12-12
+##### 2018-12-13
+##### 2018-12-14
+##### 2018-12-15
+##### 2018-12-16
+##### 2018-12-17
+##### 2018-12-18
+##### 2018-12-19
+##### 2018-12-20
+##### 2018-12-21
+##### 2018-12-22
+##### 2018-12-23
+##### 2018-12-24
+##### 2018-12-25
+##### 2018-12-26
+##### 2018-12-27
+##### 2018-12-28
+##### 2018-12-29
+##### 2018-12-30
+##### 2018-12-31
