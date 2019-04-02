@@ -174,3 +174,28 @@ git clone git@github.com:d4rkr00t/css-comb-atom.git
 cd css-comb-atom
 npm install
 ```
+
+## [Sync Settings for Atom](https://github.com/atom-community/sync-settings)
+
+Synchronize settings, keymaps, user styles, init script, snippets and installed packages across Atom instances.
+
+**Install with Powershell**
+
+```
+cd ~/.atom/packages
+git clone git@github.com:atom-community/sync-settings.git
+cd sync-settings
+npm install
+```
+
+## [Vim Mode](https://github.com/atom/vim-mode)
+
+**Install with Powershell**
+
+```
+cd ~/.atom/packages
+git clone git@github.com:atom/vim-mode.git
+cd vim-mode
+npm install
+```
+
